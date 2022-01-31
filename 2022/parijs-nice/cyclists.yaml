@@ -26,16 +26,16 @@
     - Filippo Ganna
     - Ethan Hayter
 - teamName: AG2R Citroën
-  cyclists: 
+  cyclists:
     - Aurélien Paret-Peintre
 - teamName: Astana Qazaqstan Team
-  cyclists: 
+  cyclists:
     - David de la Cruz
 - teamName: Bahrain Victorious
   cyclists:
     - Sonny Colbrelli
     - Jack Haig
-    - Dylan Teuns  
+    - Dylan Teuns
 - teamName: BORA – hansgrohe
   cyclists:
     - Aleksandr Vlasov
@@ -47,43 +47,43 @@
     - Ion Izagirre
     - Bryan Coquard
 - teamName: EF Education – Easy Post
-  cyclists:  
+  cyclists:
     - Stefan Bissegger
 - teamName: Groupama – FDJ
-  cyclists: 
+  cyclists:
     - David Gaudu
     - Arnaud Démare
     - Valentin Madouas
 - teamName: Israel – Premier Tech
-  cyclists:   
+  cyclists:
     - Chris Froome
     - Rudy Barbier
 - teamName: Moviestar
 - teamName: Team BikeExchange Jayco
-  cyclists:     
+  cyclists:
     - Michael Matthews
     - Dylan Groenewegen
 - teamName: Trek – Segafredo
-  cyclists:   
+  cyclists:
     - Jasper Stuyven
     - Mads Pedersen
     - Alex Kirsch
 - teamName: UAE Emirates
-  cyclists:   
-   - João Almeida
-   - Brandon McNulty
-   - Matteo Trentin
-   - Rui Costa
+  cyclists:
+    - João Almeida
+    - Brandon McNulty
+    - Matteo Trentin
+    - Rui Costa
 - teamName: Alpecin – Fenix
-  cyclists: 
-   - Jasper Philipsen  
+  cyclists:
+    - Jasper Philipsen
 - teamName: Arkéa Samsic
-  cyclists:  
-   - Nairo Quintana
+  cyclists:
+    - Nairo Quintana
 - teamName: B&B Hotels – KTM
   cyclists:
-   - Franck Bonnamour
+    - Franck Bonnamour
 - teamName: Team TotalEnergies
   cyclists:
-   - Peter Sagan
-   - Pierre Latour
+    - Peter Sagan
+    - Pierre Latour
