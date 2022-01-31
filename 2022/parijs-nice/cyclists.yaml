@@ -1,0 +1,89 @@
+---
+- teamName: Team Jumbo-Visma
+  cyclists:
+    - Primoz Roglic
+    - Wout van Aert
+    - Christophe Laporte
+- teamName: Intermarché – Wanty-Gobert
+  cyclists:
+    - Kobe Goossens
+- teamName: Lotto Soudal
+  cyclists:
+    - Thomas De Gendt
+    - Tim Wellens
+    - Philippe Gilbert
+- teamName: Quick Step – Alpha Vinyl
+  cyclists:
+    - Fabio Jakobsen
+    - Michael Mørkøv
+    - Yves Lampaert
+    - Florian Sénéchal
+- teamName: Team DSM
+  cyclists:
+    - John Degenkolb
+- teamName: INEOS Grenadiers
+  cyclists:
+    - Filippo Ganna
+    - Ethan Hayter
+- teamName: AG2R Citroën
+  cyclists: 
+    - Aurélien Paret-Peintre
+ - teamName: Astana Qazaqstan Team
+  cyclists: 
+    - David de la Cruz
+- teamName: Bahrain Victorious
+  cyclists:
+    - Sonny Colbrelli
+    - Jack Haig
+    - Dylan Teuns  
+- teamName: BORA – hansgrohe
+  cyclists:
+    - Aleksandr Vlasov
+    - Maximilian Schachmann
+    - Sam Bennett
+    - Danny van Poppel
+- teamName: Cofidis
+  cyclists:
+    - Ion Izagirre
+    - Bryan Coquard
+- teamName: EF Education – Easy Post
+  cyclists:  
+    - Stefan Bissegger
+- teamName: Groupama – FDJ
+  cyclists: 
+    - David Gaudu
+    - Arnaud Démare
+    - Valentin Madouas
+- teamName: Israel – Premier Tech
+  cyclists:   
+    - Chris Froome
+    - Rudy Barbier
+- teamName: Moviestar
+- teamName: Team BikeExchange Jayco
+  cyclists:     
+    - Michael Matthews
+    - Dylan Groenewegen
+- teamName: Trek – Segafredo
+  cyclists:   
+    - Jasper Stuyven
+    - Mads Pedersen
+    - Alex Kirsch
+- teamName: UAE Emirates
+  cyclists:   
+   - João Almeida
+   - Brandon McNulty
+   - Matteo Trentin
+   - Rui Costa
+- teamName: Alpecin – Fenix
+  cyclists: 
+   - Jasper Philipsen  
+- teamName: Arkéa Samsic
+  cyclists:  
+   - Nairo Quintana
+- teamName: B&B Hotels – KTM
+  cyclists:
+   - Franck Bonnamour
+- teamName: Team TotalEnergies
+  cyclists:
+   - Peter Sagan
+   - Pierre Latour
