@@ -4,54 +4,99 @@
    - Primoz Roglic
    - Wout van Aert
    - Steven Kruijswijk
+   - Rohan Dennis
    - Mike Teunissen
    - Christophe Laporte
    - Nathan Van Hooydonck
 - teamName: Intermarché – Wanty-Gobert
   cyclists:
+   - Rein Taaramäe
    - Kobe Goossens
    - Loïc Vliegen
    - Baptiste Planckaert
+   - Aimé De Gendt
+   - Biniam Girmay Hailu
+   - Georg Zimmermann
 - teamName: Lotto Soudal
   cyclists:
    - Thomas De Gendt
    - Philippe Gilbert
+   - Harm Vanhoucke
+   - Steff Crass
+   - Frederik Frison
+   - Sébastien Grignard
+   - Matthew Holmes
 - teamName: Quick Step – Alpha Vinyl
   cyclists:
    - Fabio Jakobsen
+   - Mauri Vansevenant
    - Michael Mørkøv
    - Yves Lampaert
+   - Zdenek Stybar
    - Florian Sénéchal
-   - Mattia Cattaneo
+   - Iljo Keisse
+- teamName: Team DSM
+  cyclists:
+   - Søren Kragh Andersen
+   - John Degenkolb
+   - Cees Bol
+   - Nils Eekhoff
+   - Nico Denz
+   - Andreas Leknessund
+   - Kevin Vermaerke
 - teamName: AG2R Citroën
   cyclists:
    - Ben O’Connor
-   - Larry Warbasse
+   - Oliver Naesen
    - Damien Touzé
    - Aurélien Paret-Peintre
+   - Clément Champoussin
+   - Stan Dewulf
+   - Dorian Godon
+- teamName: Astana Qazaqstan Team
+  cyclists:
+   - Alexey Loetsenko
+   - David de la Cruz
+   - Fabio Felline
+   - Valerio Conti
+   - Yevgeniy Fedorov
+   - Dmitriy Gruzdev
+   - Alexandr Riabushenko
 - teamName: Bahrain Victorious
   cyclists:
+   - Wout Poels
    - Sonny Colbrelli
    - Jack Haig
    - Dylan Teuns
    - Gino Mäder
+   - Luis León Sánchez
 - teamName: BORA – hansgrohe
   cyclists:
    - Aleksandr Vlasov
    - Maximilian Schachmann
    - Sam Bennett
    - Danny van Poppel
+   - Marco Haller
    - Nils Politt
+   - Felix Großschartner
 - teamName: Cofidis
   cyclists:
    - Ion Izagirre
+   - Wesley Kreder
+   - Guillaume Martin
    - Bryan Coquard
    - Simon Geschke
-   - Kenneth Vanbilsen
+   - Rubén Fernández
+   - Max Walscheid
 - teamName: EF Education – Easy Post
   cyclists:
    - Stefan Bissegger
+   - Neilson Powless
    - Jens Keukeleire
+   - Owain Doull
+   - Jonas Rutsch
+   - Julius van den Berg
+   - Łukasz Wisniowski
 - teamName: Groupama – FDJ
   cyclists:
    - David Gaudu
@@ -60,14 +105,43 @@
    - Matthieu Ladagnous
    - Kevin Geniets
    - Rudy Molard
+   - Olivier La Gac
 - teamName: INEOS – Grenadiers
   cyclists:
+   - Adam Yates
    - Filippo Ganna
    - Ethan Hayter
+   - Michał Kwiatkowski
+   - Daniel Felipe Martínez
+   - Luke Rowe
+   - Dylan van Baarle
 - teamName: Israel – Premier Tech
   cyclists:
-   - Chris Froome
+   - Patrick Bevin
    - Rudy Barbier
+   - Guillaume Boivin
+   - Carl Fredrik Hagen
+   - Hugo Houle
+   - Tom Van Asbroeck
+   - Mads Würtz Schmidt
+- teamName: Movistar
+  cyclists:
+   - Gorka Izagirre
+   - Iván García
+   - Imanol Erviti
+   - Gregor Mühlberger
+   - Johan Jacobs
+   - Mathias Norsgaard
+   - Matteo Jorgenson
+- teamName: Team BikeExchange Jayco
+  cyclists:
+   - Simon Yates
+   - Dylan Groenewegen
+   - Lawson Craddock
+   - Luke Durbridge
+   - Alex Edmondson
+   - Luka Mezgec
+   - Nick Schultz
 - teamName: Trek – Segafredo
   cyclists:
    - Bauke Mollema
@@ -76,13 +150,25 @@
    - Tony Gallopin
    - Alex Kirsch
    - Markus Hoelgaard
+   - Otto Vergaerde
 - teamName: UAE Emirates
   cyclists:
    - João Almeida
    - Brandon McNulty
    - Matteo Trentin
-   - Rui Costa
+   - Jan Polanc
    - Finn Fisher-Black
+   - Alexys Brunel
+   - Sebastián Molano
+- teamName: Alpecin – Fenix
+  cyclists:
+   - Jasper Philipsen
+   - Tobias Bayer
+   - Silvan Dillier
+   - Jonas Rickaert
+   - Oscar Riesebeek
+   - Kristian Sbaragli
+   - Jay Vine
 - teamName: Arkéa Samsic
   cyclists:
    - Nairo Quintana
@@ -90,12 +176,22 @@
    - Matis Louvel
    - Amaury Capiot
    - Simon Gugliemi
+   - Anthony Delaplace
+   - Łukasz Owsian
 - teamName: B&B Hotels – KTM
   cyclists:
-   - Pierre Rolland
    - Franck Bonnamour
-   - Eliot Lietaer
-- teamName: Team TotalEnergies
+   - Sebastian Schönberger
+   - Cyril Barthe
+   - Thibault Ferasse
+   - Alexis Gougeard
+   - Jonathan Hivert
+   - Jérémy Lecroq
+- teamName: TotalEnergies
   cyclists:
-   - Peter Sagan
    - Pierre Latour
+   - Alexis Vuillermoz
+   - Niccolò Bonifazio
+   - Mathieu Burgaudeau
+   - Fabien Doubey
+   - Anthony Turgis
