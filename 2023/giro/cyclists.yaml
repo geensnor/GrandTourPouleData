@@ -1,10 +1,10 @@
 ---
-- teamName: Soudal - Quick-Step
+- teamName: Soudal Quick-Step
   cyclists:
    - Remco Evenepoel
    - Davide Ballerini
    - Mattia Cattaneo
-   - Josef Černý
+   - Josef Cerný
    - Jan Hirt
    - Pieter Serry
    - Ilan Van Wilder
@@ -18,7 +18,7 @@
    - Aurélien Paret-Peintre
    - Valentin Paret-Peintre
    - Nicolas Prodhomme
-   - Larry Warbasse
+   - Lawrence Warbasse
 - teamName: Alpecin-Deceuninck
   cyclists:
    - Stefano Oldani
@@ -39,7 +39,7 @@
    - Luis León Sánchez
    - Cristian Scaroni
    - Simone Velasco
-- teamName: Bahrain - Victorious
+- teamName: Bahrain Victorious
   cyclists:
    - Damiano Caruso
    - Santiago Buitrago
@@ -49,7 +49,7 @@
    - Jonathan Milan
    - Jasha Sütterlin
    - Edoardo Zambanini
-- teamName: BORA - hansgrohe
+- teamName: BORA-hansgrohe
   cyclists:
    - Aleksandr Vlasov
    - Giovanni Aleotti
@@ -65,22 +65,20 @@
    - François Bidard
    - Davide Cimolai
    - Thomas Champion
-   - Alexandre Delettre
    - Jonathan Lastra
+   - Alexandre Delettre
    - Rémy Rochas
    - Hugo Toumire
 - teamName: EF Education-EasyPost
   cyclists:
-   - Rigoberto Urán
-   - Magnus Cort
-   - Ben Healy
+   - Rigoberto Uran
+   - Jonathan Caicedo
    - Hugh Carthy
    - Stefan de Bod
    - Odd Christian Eiking
-   - Jonathan Klever Caicedo
+   - Ben Healy
    - Merhawi Kudus
-   - Jefferson Alexander Cepeda
-   - Alberto Bettiol
+   - Magnus Cort
 - teamName: EOLO-Kometa Cycling Team
   cyclists:
    - Vincenzo Albanese
@@ -90,7 +88,7 @@
    - Lorenzo Fortunato
    - Francesco Gavazzi
    - Mirco Maestri
-   - Diego Pablo Sevilla
+   - Diego Sevilla
 - teamName: Green Project-Bardiani CSF-Faizanè
   cyclists:
    - Filippo Fiorelli
@@ -125,43 +123,43 @@
   cyclists:
    - Lorenzo Rota
    - Sven Erik Bystrøm
-   - Niccolò Bonifazio
+   - Niccolo Bonifazio
    - Laurens Huys
    - Arne Marit
    - Simone Petilli
    - Laurenz Rex
    - Rein Taaramäe
-- teamName: Israel - Premier Tech
+- teamName: Israel-Premier Tech
   cyclists:
-   - Domenico Pozzovivo
    - Sebastian Berwick
    - Simon Clarke
    - Marco Frigo
    - Derek Gee
+   - Domenico Pozzovivo
    - Matthew Riccitello
-   - Stephen Williams
    - Mads Würtz Schmidt
+   - Stephen Williams
 - teamName: Jumbo-Visma
   cyclists:
-   - Primož Roglič
+   - Primoz Roglic
    - Edoardo Affini
    - Koen Bouwman
-   - Dennis Rohan
-   - Jos van Emden
+   - Rohan Dennis
+   - Jos Van Emden
    - Michel Heßmann
    - Sepp Kuss
    - Jan Tratnik
 - teamName: Movistar Team
   cyclists:
    - Fernando Gaviria
-   - Will Barta
+   - William Barta
    - Max Kanter
-   - José Joaquín Rojas
-   - Einer Augusto Rubio
+   - José Joaquin Rojas
+   - Einer Rubio
    - Óscar Rodríguez
    - Albert Torres
    - Carlos Verona
-- teamName: Team Arkéa Samsic
+- teamName: Team Arkéa-Samsic
   cyclists:
    - Warren Barguil
    - Maxime Bouet
@@ -171,7 +169,7 @@
    - Alan Riou
    - Clément Russo
    - Alessandro Verre
-- teamName: Team Corratec - Selle Italia
+- teamName: Team corratec - Selle Italia
   cyclists:
    - Valerio Conti
    - Nicolas Dalla Valle
@@ -179,7 +177,7 @@
    - Alessandro Iacchi
    - Alexander Konychev
    - Charlie Quarterman
-   - Veljko Stojnić
+   - Veljko Stojnic
    - Karel Vacek
 - teamName: Team DSM
   cyclists:
@@ -195,7 +193,7 @@
   cyclists:
    - Michael Matthews
    - Alessandro De Marchi
-   - Eddie Dunbar
+   - Edward Dunbar
    - Michael Hepburn
    - Lukas Pöstlberger
    - Callum Scotson
@@ -208,12 +206,12 @@
    - Alex Kirsch
    - Bauke Mollema
    - Mads Pedersen
-   - Toms Skujiņš
+   - Toms Skujins
    - Natnael Tesfazion
    - Otto Vergaerde
 - teamName: UAE Team Emirates
   cyclists:
-   - João Almeida
+   - Joao Almeida
    - Pascal Ackermann
    - Alessandro Covi
    - Davide Formolo
