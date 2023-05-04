@@ -1,10 +1,10 @@
 ---
-- teamName: Soudal Quick-Step
+- teamName: Soudal - Quick-Step
   cyclists:
    - Remco Evenepoel
    - Davide Ballerini
    - Mattia Cattaneo
-   - Josef Cerný
+   - Josef Černý
    - Jan Hirt
    - Pieter Serry
    - Ilan Van Wilder
@@ -18,7 +18,7 @@
    - Aurélien Paret-Peintre
    - Valentin Paret-Peintre
    - Nicolas Prodhomme
-   - Lawrence Warbasse
+   - Larry Warbasse
 - teamName: Alpecin-Deceuninck
   cyclists:
    - Stefano Oldani
@@ -39,17 +39,17 @@
    - Luis León Sánchez
    - Cristian Scaroni
    - Simone Velasco
-- teamName: Bahrain Victorious
+- teamName: Bahrain - Victorious
   cyclists:
    - Damiano Caruso
    - Santiago Buitrago
    - Jack Haig
-   - Gino Mäder
+   - Yukiya Arashiro
    - Andrea Pasqualon
    - Jonathan Milan
    - Jasha Sütterlin
    - Edoardo Zambanini
-- teamName: BORA-hansgrohe
+- teamName: BORA - hansgrohe
   cyclists:
    - Aleksandr Vlasov
    - Giovanni Aleotti
@@ -64,21 +64,23 @@
    - Simone Consonni
    - François Bidard
    - Davide Cimolai
-   - Victor Lafay
+   - Thomas Champion
+   - Alexandre Delettre
    - Jonathan Lastra
-   - Pierre-Luc Périchon
    - Rémy Rochas
    - Hugo Toumire
 - teamName: EF Education-EasyPost
   cyclists:
-   - Rigoberto Uran
-   - Jonathan Caicedo
+   - Rigoberto Urán
+   - Magnus Cort
+   - Ben Healy
    - Hugh Carthy
    - Stefan de Bod
    - Odd Christian Eiking
-   - Ben Healy
+   - Jonathan Klever Caicedo
    - Merhawi Kudus
-   - Magnus Cort
+   - Jefferson Alexander Cepeda
+   - Alberto Bettiol
 - teamName: EOLO-Kometa Cycling Team
   cyclists:
    - Vincenzo Albanese
@@ -88,7 +90,7 @@
    - Lorenzo Fortunato
    - Francesco Gavazzi
    - Mirco Maestri
-   - Diego Sevilla
+   - Diego Pablo Sevilla
 - teamName: Green Project-Bardiani CSF-Faizanè
   cyclists:
    - Filippo Fiorelli
@@ -107,7 +109,7 @@
    - Fabian Lienhard
    - Rudy Molard
    - Jake Stewart
-   - Reuben Thompson
+   - Ignatas Konovalovas
    - Lars van den Berg
 - teamName: INEOS Grenadiers
   cyclists:
@@ -123,43 +125,43 @@
   cyclists:
    - Lorenzo Rota
    - Sven Erik Bystrøm
-   - Niccolo Bonifazio
+   - Niccolò Bonifazio
    - Laurens Huys
    - Arne Marit
    - Simone Petilli
    - Laurenz Rex
    - Rein Taaramäe
-- teamName: Israel-Premier Tech
+- teamName: Israel - Premier Tech
   cyclists:
+   - Domenico Pozzovivo
    - Sebastian Berwick
    - Simon Clarke
    - Marco Frigo
    - Derek Gee
-   - Domenico Pozzovivo
    - Matthew Riccitello
-   - Mads Würtz Schmidt
    - Stephen Williams
+   - Mads Würtz Schmidt
 - teamName: Jumbo-Visma
   cyclists:
-   - Primoz Roglic
+   - Primož Roglič
    - Edoardo Affini
    - Koen Bouwman
-   - Tobias Foss
-   - Robert Gesink
+   - Dennis Rohan
+   - Jos van Emden
    - Michel Heßmann
    - Sepp Kuss
    - Jan Tratnik
 - teamName: Movistar Team
   cyclists:
    - Fernando Gaviria
-   - William Barta
+   - Will Barta
    - Max Kanter
-   - José Joaquin Rojas
-   - Einer Rubio
+   - José Joaquín Rojas
+   - Einer Augusto Rubio
    - Óscar Rodríguez
    - Albert Torres
    - Carlos Verona
-- teamName: Team Arkéa-Samsic
+- teamName: Team Arkéa Samsic
   cyclists:
    - Warren Barguil
    - Maxime Bouet
@@ -169,7 +171,7 @@
    - Alan Riou
    - Clément Russo
    - Alessandro Verre
-- teamName: Team Corratec
+- teamName: Team Corratec - Selle Italia
   cyclists:
    - Valerio Conti
    - Nicolas Dalla Valle
@@ -177,8 +179,8 @@
    - Alessandro Iacchi
    - Alexander Konychev
    - Charlie Quarterman
-   - Nicolas Tivani
-   - Attilio Viviani
+   - Veljko Stojnić
+   - Karel Vacek
 - teamName: Team DSM
   cyclists:
    - Andreas Leknessund
@@ -193,7 +195,7 @@
   cyclists:
    - Michael Matthews
    - Alessandro De Marchi
-   - Edward Dunbar
+   - Eddie Dunbar
    - Michael Hepburn
    - Lukas Pöstlberger
    - Callum Scotson
@@ -206,12 +208,12 @@
    - Alex Kirsch
    - Bauke Mollema
    - Mads Pedersen
-   - Toms Skujins
+   - Toms Skujiņš
    - Natnael Tesfazion
    - Otto Vergaerde
 - teamName: UAE Team Emirates
   cyclists:
-   - Joao Almeida
+   - João Almeida
    - Pascal Ackermann
    - Alessandro Covi
    - Davide Formolo
