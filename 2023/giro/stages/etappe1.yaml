@@ -1,6 +1,20 @@
 number: 1
 route: Fossacesia Marina - Ortona ⏰
 date: "2023-05-06"
-status: notStarted
-stageResults: ""
-jerseyWearers: ""
+status: finished
+stageResults:
+  - Remco Evenepoel
+  - Filippo Ganna
+  - Joao Almeida
+  - Tao Geoghegan Hart
+  - Stefan Küng
+  - Primoz Roglic
+  - Jay Vine
+  - Brandon McNulty
+  - Geraint Thomas
+  - Aleksandr Vlasov
+jerseyWearers:
+  - jersey: De Roze Trui
+    cyclist: Remco Evenepoel
+  - jersey: De Blauwe Trui
+    cyclist: Brandon McNulty
