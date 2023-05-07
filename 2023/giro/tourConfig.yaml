@@ -3,6 +3,7 @@ name: Giro d’Italia 2023
 status: open
 maxCyclistsInUserTeam: 8
 widgetURL: https://firstcycling.com/widget/?r=13&y=2023&s={stageNumber}&lang=NED
+tourURL: https://firstcycling.com/race.php?r=3672&y=2023
 jerseys:
   De Roze Trui: 10
   De Blauwe Trui: 5
