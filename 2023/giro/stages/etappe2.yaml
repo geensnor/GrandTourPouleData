@@ -1,6 +1,19 @@
 number: 2
 route: Teramo - San Salvo
 date: "2023-05-07"
-status: notStarted
-stageResults: ""
-jerseyWearers: ""
+status: finished
+stageResults:
+  - Jonathan Milan
+  - David Dekker
+  - Kaden Groves
+  - Arne Marit
+  - Marius Mayrhofer
+  - Pascal Ackermann
+  - Fernando Gaviria
+  - Niccolo Bonifazio
+  - Jake Stewart
+jerseyWearers:
+  - jersey: De Roze Trui
+    cyclist: Remco Evenepoel
+  - jersey: De Blauwe Trui
+    cyclist: Tao Geoghegan Hart
