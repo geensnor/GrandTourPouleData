@@ -1,6 +1,20 @@
 number: 3
 route: Vasto - Melfi
 date: "2023-05-08"
-status: notStarted
-stageResults: ""
-jerseyWearers: ""
+status: finished
+stageResults:
+  - Michael Matthews
+  - Mads Pedersen
+  - Kaden Groves
+  - Vincenzo Albanese
+  - Stefano Oldani
+  - Sven Erik Bystrøm
+  - Primoz Roglic
+  - Simone Velasco
+  - Toms Skujins
+  - Andrea Vendrame
+jerseyWearers:
+  - jersey: De Roze Trui
+    cyclist: Remco Evenepoel
+  - jersey: De Blauwe Trui
+    cyclist: Thibaut Pinot
