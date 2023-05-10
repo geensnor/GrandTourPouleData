@@ -1,6 +1,20 @@
 number: 5
 route: Atripalda - Salerno
 date: "2023-05-10"
-status: notStarted
-stageResults: ""
-jerseyWearers: ""
+status: finished
+stageResults:
+  - Kaden Groves
+  - Jonathan Milan
+  - Mads Pedersen
+  - Alberto Dainese
+  - Mark Cavendish
+  - Nicolas Dalla Valle
+  - Mirco Maestri
+  - Filippo Fiorelli
+  - Andrea Vendrame
+  - Michael Matthews
+jerseyWearers:
+  - jersey: De Roze Trui
+    cyclist: Andreas Leknessund
+  - jersey: De Blauwe Trui
+    cyclist: Thibaut Pinot
