@@ -1,6 +1,20 @@
 number: 6
 route: Napoli - Napoli
 date: "2023-05-11"
-status: notStarted
-stageResults: ""
-jerseyWearers: ""
+status: finished
+stageResults:
+  - Mads Pedersen
+  - Jonathan Milan
+  - Pascal Ackermann
+  - Kaden Groves
+  - Fernando Gaviria
+  - Michael Matthews
+  - Vincenzo Albanese
+  - Marius Mayrhofer
+  - Lorenzo Rota
+  - Simone Velasco
+jerseyWearers:
+  - jersey: De Roze Trui
+    cyclist: Andreas Leknessund
+  - jersey: De Blauwe Trui
+    cyclist: Thibaut Pinot
