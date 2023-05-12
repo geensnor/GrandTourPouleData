@@ -1,6 +1,20 @@
 number: 7
 route: Capua - Gran Sasso d'Italia ⛰️
 date: "2023-05-12"
-status: notStarted
-stageResults: ""
-jerseyWearers: ""
+status: finished
+stageResults:
+  - Davide Bais
+  - Karel Vacek
+  - Simone Petilli
+  - Remco Evenepoel
+  - Primoz Roglic
+  - Thibaut Pinot
+  - Geraint Thomas
+  - Joao Almeida
+  - Edward Dunbar
+  - Cristian Scaroni
+jerseyWearers:
+  - jersey: De Roze Trui
+    cyclist: Andreas Leknessund
+  - jersey: De Blauwe Trui
+    cyclist: Davide Bais
