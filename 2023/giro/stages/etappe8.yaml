@@ -1,6 +1,20 @@
 number: 8
 route: Teri - Fossombrone
 date: "2023-05-13"
-status: notStarted
-stageResults: ""
-jerseyWearers: ""
+status: finished
+stageResults:
+  - Ben Healy
+  - Derek Gee
+  - Filippo Zana
+  - Warren Barguil
+  - Carlos Verona
+  - Mattia Bais
+  - Toms Skujins
+  - Alessandro Tonelli
+  - Oscar Riesebeek
+  - Tao Geoghegan Hart
+jerseyWearers:
+  - jersey: De Roze Trui
+    cyclist: Andreas Leknessund
+  - jersey: De Blauwe Trui
+    cyclist: Davide Bais
