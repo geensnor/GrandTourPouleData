@@ -1,6 +1,20 @@
 number: 9
 route: Savignano sul Rubicone - Cesena ⏰
 date: "2023-05-14"
-status: notStarted
-stageResults: ""
-jerseyWearers: ""
+status: finished
+stageResults:
+  - Remco Evenepoel
+  - Geraint Thomas
+  - Tao Geoghegan Hart
+  - Stefan Küng
+  - Bruno Armirail
+  - Primoz Roglic
+  - Thymen Arensman
+  - Aleksandr Vlasov
+  - Joao Almeida
+  - Damiano Caruso
+jerseyWearers:
+  - jersey: De Roze Trui
+    cyclist: Remco Evenepoel
+  - jersey: De Blauwe Trui
+    cyclist: Davide Bais
