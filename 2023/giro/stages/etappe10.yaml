@@ -1,6 +1,20 @@
 number: 10
 route: Scandiano - Viareggio ⛰️
 date: "2023-05-16"
-status: notStarted
-stageResults: ""
-jerseyWearers: ""
+status: finished
+stageResults:
+  - Magnus Cort
+  - Derek Gee
+  - Alessandro De Marchi
+  - Mads Pedersen
+  - Pascal Ackermann
+  - Stefano Oldani
+  - Jonathan Milan
+  - Mark Cavendish
+  - Mirco Maestri
+  - Filippo Fiorelli
+jerseyWearers:
+  - jersey: De Roze Trui
+    cyclist: Geraint Thomas
+  - jersey: De Blauwe Trui
+    cyclist: Davide Bais
