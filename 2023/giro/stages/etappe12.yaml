@@ -1,6 +1,20 @@
 number: 12
 route: Bra - Rivoli
 date: "2023-05-18"
-status: notStarted
-stageResults: ""
-jerseyWearers: ""
+status: finished
+stageResults:
+  - Nico Denz
+  - Toms Skujins
+  - Sebastian Berwick
+  - Alessandro Tonelli
+  - Marco Frigo
+  - Ilan Van Wilder
+  - Alberto Bettiol
+  - Cristian Scaroni
+  - Michel Heßmann
+  - Alex Baudin
+jerseyWearers:
+  - jersey: De Roze Trui
+    cyclist: Geraint Thomas
+  - jersey: De Blauwe Trui
+    cyclist: Davide Bais
