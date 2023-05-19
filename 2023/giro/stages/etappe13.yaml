@@ -1,6 +1,20 @@
 number: 13
 route: Borgofranco d'Ivrea - Crans Montana ⛰️
 date: "2023-05-19"
-status: notStarted
-stageResults: ""
-jerseyWearers: ""
+status: finished
+stageResults:
+  - Einer Rubio
+  - Thibaut Pinot
+  - Alexander Cepeda
+  - Derek Gee
+  - Valentin Paret-Peintre
+  - Hugh Carthy
+  - Joao Almeida
+  - Edward Dunbar
+  - Geraint Thomas
+  - Primoz Roglic
+jerseyWearers:
+  - jersey: De Roze Trui
+    cyclist: Geraint Thomas
+  - jersey: De Blauwe Trui
+    cyclist: Thibaut Pinot
