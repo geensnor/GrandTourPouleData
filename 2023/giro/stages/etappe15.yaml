@@ -1,6 +1,20 @@
 number: 15
 route: Seregno - Bergamo
 date: "2023-05-21"
-status: notStarted
-stageResults: ""
-jerseyWearers: ""
+status: finished
+stageResults:
+  - Brandon McNulty
+  - Ben Healy
+  - Marco Frigo
+  - Bauke Mollema
+  - Einer Rubio
+  - Simone Velasco
+  - Andrea Pasqualon
+  - Laurens Huys
+  - Vincenzo Albanese
+  - François Bidard
+jerseyWearers:
+  - jersey: De Roze Trui
+    cyclist: Bruno Armirail
+  - jersey: De Blauwe Trui
+    cyclist: Davide Bais
