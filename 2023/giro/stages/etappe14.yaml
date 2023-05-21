@@ -1,6 +1,20 @@
 number: 14
 route: Sierre - Cassano Magnago ⛰️
 date: "2023-05-20"
-status: notStarted
-stageResults: ""
-jerseyWearers: ""
+status: finished
+stageResults:
+  - Nico Denz
+  - Derek Gee
+  - Alberto Bettiol
+  - Laurenz Rex
+  - Davide Ballerini
+  - Toms Skujins
+  - Marius Mayrhofer
+  - Stefano Oldani
+  - Andrea Pasqualon
+  - Mirco Maestri
+jerseyWearers:
+  - jersey: De Roze Trui
+    cyclist: Bruno Armirail
+  - jersey: De Blauwe Trui
+    cyclist: Davide Bais
