@@ -38,8 +38,7 @@ jobs:
             /.git*
             .git*/**
             2021/**
-            2022/baskenland/**
-            2022/giro/**
+            2022/**
             readme.md
           dangerous-clean-slate: true
 
