@@ -1,6 +1,20 @@
 number: 16
 route: Sabbio Chiese - Monte Bondone
 date: "2023-05-23"
-status: notStarted
-stageResults: ""
-jerseyWearers: ""
+status: finished
+stageResults:
+  - Joao Almeida
+  - Geraint Thomas
+  - Primoz Roglic
+  - Edward Dunbar
+  - Sepp Kuss
+  - Ilan Van Wilder
+  - Damiano Caruso
+  - Einer Rubio
+  - Laurens De Plus
+  - Thymen Arensman
+jerseyWearers:
+  - jersey: De Roze Trui
+    cyclist: Geraint Thomas
+  - jersey: De Blauwe Trui
+    cyclist: Ben Healy
