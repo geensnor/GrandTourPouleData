@@ -1,0 +1,30 @@
+---
+name: Tour de France 2023
+status: closed
+start: 2022-07-01
+maxCyclistsInUserTeam: 12
+widgetURL: 
+jerseys:
+  De Gele Trui: 10
+  De Bolletjes Trui: 5
+scoring:
+  - 30
+  - 15
+  - 12
+  - 9
+  - 5
+  - 4
+  - 3
+  - 2
+  - 1
+finalStandingScoring:
+  - 150
+  - 75
+  - 50
+  - 40
+  - 35
+  - 30
+  - 28
+  - 26
+  - 24
+  - 22
