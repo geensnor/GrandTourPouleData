@@ -1,6 +1,20 @@
 number: 17
 route: Pergine Valsugana - Caorle
 date: "2023-05-24"
-status: notStarted
-stageResults: ""
-jerseyWearers: ""
+status: finished
+stageResults:
+ - Alberto Dainese
+ - Jonathan Milan
+ - Michael Matthews
+ - Niccolo Bonifazio
+ - Simone Consonni
+ - Fernando Gaviria
+ - Andrea Pasqualon
+ - Alex Kirsch
+ - Stefano Oldani
+ - Pascal Ackermann
+jerseyWearers:
+  - jersey: De Roze Trui
+    cyclist: Geraint Thomas
+  - jersey: De Blauwe Trui
+    cyclist: Ben Healy
