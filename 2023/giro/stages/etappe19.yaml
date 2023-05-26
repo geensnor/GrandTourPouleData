@@ -1,6 +1,20 @@
 number: 19
 route: Longarone - Tre Cime di Lavaredo ⛰️
 date: "2023-05-26"
-status: notStarted
-stageResults: ""
-jerseyWearers: ""
+status: finished
+stageResults:
+  - Santiago Buitrago
+  - Derek Gee
+  - Magnus Cort
+  - Primoz Roglic
+  - Geraint Thomas
+  - Joao Almeida
+  - Damiano Caruso
+  - Thymen Arensman
+  - Thibaut Pinot
+  - Einer Rubio
+jerseyWearers:
+  - jersey: De Roze Trui
+    cyclist: Geraint Thomas
+  - jersey: De Blauwe Trui
+    cyclist: Thibaut Pinot
