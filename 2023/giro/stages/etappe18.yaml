@@ -1,6 +1,20 @@
 number: 18
 route: Oberze - Val di Zoldo ⛰️
 date: "2023-05-25"
-status: notStarted
-stageResults: ""
-jerseyWearers: ""
+status: finished
+stageResults:
+ - Filippo Zana
+ - Thibaut Pinot
+ - Warren Barguil
+ - Derek Gee
+ - Aurélien Paret-Peintre
+ - Marco Frigo
+ - Primoz Roglic
+ - Geraint Thomas
+ - Joao Almeida
+ - Edward Dunbar
+jerseyWearers:
+  - jersey: De Roze Trui
+    cyclist: Geraint Thomas
+  - jersey: De Blauwe Trui
+    cyclist: Thibaut Pinot
