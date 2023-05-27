@@ -1,6 +1,20 @@
 number: 20
 route: Tarvisio - Monte Lussari ⏰
 date: "2023-05-27"
-status: notStarted
-stageResults: ""
-jerseyWearers: ""
+status: finished
+stageResults:
+  - Primoz Roglic
+  - Geraint Thomas
+  - Joao Almeida
+  - Damiano Caruso
+  - Thibaut Pinot
+  - Sepp Kuss
+  - Brandon McNulty
+  - Thymen Arensman
+  - Andreas Leknessund
+  - Jay Vine
+jerseyWearers:
+  - jersey: De Roze Trui
+    cyclist: Primoz Roglic
+  - jersey: De Blauwe Trui
+    cyclist: Thibaut Pinot
