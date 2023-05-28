@@ -1,6 +1,20 @@
 number: 21
 route: Roma - Roma ⏰
 date: "2023-05-28"
-status: notStarted
-stageResults: ""
-jerseyWearers: ""
+status: finished
+stageResults:
+  - Mark Cavendish
+  - Alex Kirsch
+  - Filippo Fiorelli
+  - Alberto Dainese
+  - Alexander Krieger
+  - Jake Stewart
+  - Fernando Gaviria
+  - Michael Matthews
+  - Arne Marit
+  - Campbell Stewart
+jerseyWearers:
+  - jersey: De Roze Trui
+    cyclist: Primoz Roglic
+  - jersey: De Blauwe Trui
+    cyclist: Thibaut Pinot
