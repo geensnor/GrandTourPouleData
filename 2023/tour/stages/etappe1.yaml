@@ -1,6 +1,10 @@
 number: 1
-route: Bilbao - Bilbao
+route: ' Bilbao -  Bilbao'
 date: '2023-07-01'
 status: notStarted
 stageResults: ''
-jerseyWearers: ''
+jerseyWearers:
+  - jersey: De Gele Trui
+    cyclist: ''
+  - jersey: De Bolletjes Trui
+    cyclist: ''

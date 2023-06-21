@@ -3,4 +3,8 @@ route: Combloux - Combloux
 date: '2023-07-18'
 status: notStarted
 stageResults: ''
-jerseyWearers: ''
+jerseyWearers:
+  - jersey: De Gele Trui
+    cyclist: ''
+  - jersey: De Bolletjes Trui
+    cyclist: ''
