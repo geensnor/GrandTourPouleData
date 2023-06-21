@@ -1,0 +1,196 @@
+---
+- teamName: Jumbo – Visma
+  cyclists:
+    - Jonas Vingegaard
+    - Wilco Kelderman
+    - Dylan van Baarle
+    - Wout van Aert
+    - Tiesj Benoot
+    - Sepp Kuss
+    - Christophe Laporte
+    - Nathan Van Hooydonck
+- teamName: Alpecin – Deceuninck
+  cyclists:
+    - Mathieu van der Poel
+    - Jasper Philipsen
+    - Søren Kragh Andersen
+    - Michael Gogl
+    - Quinten Hermans
+    - Jonas Rickaert
+- teamName: Intermarché – Circus – Wanty
+  cyclists:
+    - Biniam Girmay
+    - Rui Costa
+    - Mike Teunissen
+    - Louis Meintjes
+    - Lilian Calmejane
+    - Kobe Goossens
+    - Loïc Vliegen
+    - Georg Zimmermann
+    - Adrien Petit
+- teamName: Soudal – QuickStep
+  cyclists:
+    - Julian Alaphilippe
+    - Fabio Jakobsen
+    - Andrea Bagioli
+    - Michael Mørkøv
+    - Mauri Vansevenant
+    - Yves Lampaert
+    - Rémi Cavagna
+    - Florian Sénéchal
+- teamName: Team dsm-firmenich
+  cyclists:
+    - Romain Bardet
+    - Nils Eekhoff
+    - Andreas Leknessund
+    - Matthew Binham
+    - Sam Welsford
+- teamName: AG2R Citroën
+  cyclists:
+    - Ben O’Connor
+    - Oliver Naesen
+    - Greg van Avermaet
+    - Felix Gall
+    - Nans Peters
+    - Dorian Godon
+- teamName: Arkéa Samsic
+  cyclists:
+    - Warren Barguil
+    - Élie Gesbert
+    - Clément Champoussin
+- teamName: Astana Qazaqstan Team
+  cyclists:
+    - Alexey Loetsenko
+    - Mark Cavendish
+    - Cees Bol
+    - David de la Cruz
+    - Joe Dombrowski
+    - Dmitriy Gruzdev
+    - Samuele Battistella
+    - Yevgeniy Fedorov
+- teamName: Bahrain Victorious
+  cyclists:
+    - Mikel Landa
+    - Matej Mohoric
+    - Pello Bilbao
+    - Wout Poels
+    - Fred Wright
+    - Kamil Gradek
+- teamName: BORA – hansgrohe
+  cyclists:
+    - Jai Hindley
+    - Sergio Higuita
+    - Sam Bennett
+    - Emanuel Buchmann
+    - Bob Jungels
+    - Danny van Poppel
+    - Jordi Meeus
+    - Patrick Konrad
+    - Nils Politt
+- teamName: Cofidis
+  cyclists:
+    - Ion Izagirre
+    - Guillaume Martin
+    - Simon Geschke
+    - Axel Zingle
+    - Benjamin Thomas
+    - Pierre-Luc Périchon
+    - Anthony Perez
+    - Bryan Coquard
+    - Piet Allegaert
+- teamName: EF Education – EasyPost
+  cyclists:
+    - Richard Carapaz
+    - Magnus Cort
+    - Neilson Powless
+    - Alberto Bettiol
+    - Rigoberto Uran
+    - Andrey Amador
+    - Mikkel Honoré
+- teamName: Groupama – FDJ
+  cyclists:
+    - David Gaudu
+    - Thibaut Pinot
+    - Stefan Küng
+    - Valentin Madouas
+    - Kevin Geniets
+- teamName: INEOS Grenadiers
+  cyclists:
+    - Egan Bernal
+    - Carlos Rodriguez
+    - Tom Pidcock
+    - Daniel Felipe Martínez
+    - Michal Kwiatkowski
+    - Jonathan Castroviejo
+- teamName: Lidl – Trek
+  cyclists:
+    - Giulio Ciccone
+    - Bauke Mollema
+    - Mads Pedersen
+    - Jasper Stuyven
+    - Juan Pedro López
+    - Tony Gallopin
+    - Mattias Skjelmose
+    - Alex Kirsch
+- teamName: Movistar
+  cyclists:
+    - Enric Mas
+    - Matteo Jorgenson
+    - Ruben Guerreiro
+    - Nelson Oliveira
+    - Jorge Arcas
+- teamName: Team Jayco – AlUla
+  cyclists:
+    - Simon Yates
+    - Dylan Groenewegen
+    - Christopher Juul-Jensen
+    - Lawson Craddock
+    - Luke Durbridge
+    - Luka Mezgec
+    - Matteo Sobrero
+    - Chris Harper
+    - Elmar Reinders
+- teamName: UAE Emirates
+  cyclists:
+    - Tadej Pogacar
+    - Adam Yates
+    - Marc Soler
+    - Rafal Majka
+    - Domen Novak
+    - Mikkel Bjerg
+    - Vegard Stake Laengen
+- teamName: Israel – Premier Tech
+  cyclists:
+    - Chris Froome
+    - Michael Woods
+    - Jakob Fuglsang
+    - Simon Clarke
+    - Daryl Impey
+    - Dylan Teuns
+    - Giacomo Nizzolo
+    - Nick Schultz
+- teamName: Lotto – Dstny
+  cyclists:
+    - Caleb Ewan
+    - Thomas De Gendt
+    - Brent Van Moer
+    - Andreas Kron
+- teamName: TotalEnergies
+  cyclists:
+    - Pierre Latour
+    - Peter Sagan
+    - Alexis Vuillermoz
+    - Edvald Boasson Hagen
+    - Maciej Bodnar
+    - Daniel Oss
+    - Anthony Turgis
+- teamName: Uno-X
+  cyclists:
+    - Alexander Kristoff
+    - Tobias Halland Johannessen
+    - Rasmus Tiller
+    - Torstein Træen
+    - Søren Wærenskjold
+    - Anthon Charmig
+    - Jonas Gregaard
+    - Jonas Abrahamsen
