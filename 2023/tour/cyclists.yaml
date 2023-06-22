@@ -42,9 +42,12 @@
   cyclists:
     - Romain Bardet
     - Nils Eekhoff
-    - Andreas Leknessund
+    - John Degenkolb
     - Matthew Binham
     - Sam Welsford
+    - Alex Edmondson
+    - Kevin Vermaerke
+    - Chris Hamilton
 - teamName: AG2R Citroën
   cyclists:
     - Ben O’Connor
@@ -79,13 +82,11 @@
 - teamName: BORA – hansgrohe
   cyclists:
     - Jai Hindley
-    - Sergio Higuita
-    - Sam Bennett
     - Emanuel Buchmann
     - Bob Jungels
     - Danny van Poppel
+    - Marco Haller
     - Jordi Meeus
-    - Patrick Konrad
     - Nils Politt
 - teamName: Cofidis
   cyclists:
@@ -114,6 +115,9 @@
     - Stefan Küng
     - Valentin Madouas
     - Kevin Geniets
+    - Lars van den Berg
+    - Olivier Le Gac
+    - Quentin Pacher
 - teamName: INEOS Grenadiers
   cyclists:
     - Egan Bernal
@@ -125,7 +129,6 @@
 - teamName: Lidl – Trek
   cyclists:
     - Giulio Ciccone
-    - Bauke Mollema
     - Mads Pedersen
     - Jasper Stuyven
     - Juan Pedro López
@@ -172,9 +175,13 @@
 - teamName: Lotto – Dstny
   cyclists:
     - Caleb Ewan
-    - Thomas De Gendt
-    - Brent Van Moer
-    - Andreas Kron
+    - Victor Campenaerts
+    - Florian Vermeersch
+    - Jacopo Guarnieri
+    - Pascal Eenkhoorn
+    - Jasper De Buyst
+    - Frederik Frison
+    - Maxim Van Gils
 - teamName: TotalEnergies
   cyclists:
     - Pierre Latour
