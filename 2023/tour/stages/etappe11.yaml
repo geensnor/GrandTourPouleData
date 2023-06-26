@@ -1,10 +1,10 @@
 number: 11
 route: Clermont - Ferrand-Moulins
-date: '2023-07-12'
+date: "2023-07-12"
 status: notStarted
-stageResults: ''
+stageResults: ""
 jerseyWearers:
   - jersey: De Gele Trui
-    cyclist: ''
+    cyclist: ""
   - jersey: De Bolletjes Trui
-    cyclist: ''
+    cyclist: ""
