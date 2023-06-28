@@ -5,7 +5,7 @@ start: 2021-12-12
 maxCyclistsInUserTeam: "12"
 externalRankingLink:
   title: Algemeen klassement link test
-  url: https://www.geensnor.nl
+  url: https://www.geensnor.nl/tourpoule
 jerseys:
   De Gele Snor: "20"
   De Berg Snor: "10"
