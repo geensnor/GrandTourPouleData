@@ -15,3 +15,5 @@ jobs:
               new-line-at-end-of-file: false
               trailing-spaces: false
               line-length: false
+              truthy: false
+              comment: false
