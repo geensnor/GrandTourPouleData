@@ -4,10 +4,10 @@ name: Lint, deploy, http-request
 on:
   push:
     paths-ignore:
-      - ".github"
+      - ".github/**"
   pull_request:
     paths-ignore:
-      - ".github"
+      - ".github/**"
 
 jobs:
   YAMLlint:
