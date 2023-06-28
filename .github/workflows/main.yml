@@ -1,25 +1,32 @@
 ---
 name: Lint, deploy, http-request
-on: [push, pull_request]
+
+on: 
+  push:
+    paths-ignore:
+    - '.github'
+  pull_request:
+    paths-ignore:
+    - '.github'
 
 jobs:
-  lint:
-    # Name the Job
+  YAMLlint:
     name: 🕵️‍♂️ Lint Code Base
-    # Set the agent to run on
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Code
-        uses: actions/checkout@v2
+      - uses: actions/checkout@v3
+      - name: yaml-lint
+        uses: ibiqlik/action-yamllint@v3
         with:
-          # Full git history is needed to get a proper list of changed files within `super-linter`
-          fetch-depth: 0
-      - name: Lint Code Base
-        uses: docker://github/super-linter:v4
-        env:
-          VALIDATE_ALL_CODEBASE: false
-          DEFAULT_BRANCH: main
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          config_data: |
+            extends: default
+            rules:
+              new-line-at-end-of-file: false
+              trailing-spaces: false
+              line-length: false
+              truthy: false
+              comments: false
+              
   web-deploy:
     name: 🎉 Deploy
     needs: lint
@@ -27,7 +34,6 @@ jobs:
     steps:
       - name: 🚚 Get latest code
         uses: actions/checkout@v2
-
       - name: 📂 Sync files
         uses: SamKirkland/FTP-Deploy-Action@4.3.0
         with:
