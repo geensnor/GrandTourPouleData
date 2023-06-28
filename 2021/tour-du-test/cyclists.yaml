@@ -1,7 +1,8 @@
 ---
 - teamName: Team Jumbo-Visma
   cyclists:
-    - Primoz Roglic
+- Primoz Roglic
+  
     - Wout van Aert
     - Robert Gesink
     - Steven Kruijswijk
