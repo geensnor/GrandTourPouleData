@@ -16,4 +16,4 @@ jobs:
               trailing-spaces: false
               line-length: false
               truthy: false
-              comment: false
+              comments: false
