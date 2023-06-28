@@ -1,13 +1,13 @@
 ---
 name: Lint, deploy, http-request
 
-on: 
+on:
   push:
     paths-ignore:
-    - '.github'
+      - ".github"
   pull_request:
     paths-ignore:
-    - '.github'
+      - ".github"
 
 jobs:
   YAMLlint:
@@ -26,7 +26,7 @@ jobs:
               line-length: false
               truthy: false
               comments: false
-              
+
   web-deploy:
     name: 🎉 Deploy
     needs: YAMLlint
