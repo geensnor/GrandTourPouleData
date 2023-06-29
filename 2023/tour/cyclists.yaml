@@ -1,84 +1,24 @@
 ---
-- teamName: AG2R Citroën Team
+- teamName: Jumbo-Visma
   cyclists:
-    - Clément Berthet
-    - Benoît Cosnefroy
-    - Stan Dewulf
-    - Felix Gall
-    - Oliver Naesen
-    - Ben O'Connor
-    - Aurélien Paret-Peintre
-    - Nans Peters
-- teamName: Alpecin-Deceuninck
+    - Jonas Vingegaard
+    - Tiesj Benoot
+    - Wilco Kelderman
+    - Sepp Kuss
+    - Christophe Laporte
+    - Wout van Aert
+    - Dylan van Baarle
+    - Nathan Van Hooydonck
+- teamName: UAE Team Emirates
   cyclists:
-    - Søren Kragh Andersen
-    - Silvan Dillier
-    - Michael Gogl
-    - Quinten Hermans
-    - Jasper Philipsen
-    - Jonas Rickaert
-    - Ramon Sinkeldam
-    - Mathieu van der Poel
-- teamName: Astana Qazaqstan Team
-  cyclists:
-    - Cees Bol
-    - Mark Cavendish
-    - David De La Cruz
-    - Yevgeniy Fedorov
-    - Alexey Lutsenko
-    - Gianni Moscon
-    - Luis León Sánchez
-    - Harold Tejada
-- teamName: Bahrain Victorious
-  cyclists:
-    - Nikias Arndt
-    - Phil Bauhaus
-    - Pello Bilbao
-    - Jack Haig
-    - Mikel Landa
-    - Matej Mohoric
-    - Wout Poels
-    - Fred Wright
-- teamName: BORA-hansgrohe
-  cyclists:
-    - Emanuel Buchmann
-    - Marco Haller
-    - Jai Hindley
-    - Bob Jungels
-    - Patrick Konrad
-    - Jordi Meeus
-    - Nils Politt
-    - Danny van Poppel
-- teamName: Cofidis
-  cyclists:
-    - Bryan Coquard
-    - Simon Geschke
-    - Ion Izagirre
-    - Victor Lafay
-    - Guillaume Martin
-    - Anthony Perez
-    - Alexis Renard
-    - Axel Zingle
-- teamName: EF Education-EasyPost
-  cyclists:
-    - Andrey Amador
-    - Alberto Bettiol
-    - Richard Carapaz
-    - Esteban Chaves
-    - Magnus Cort
-    - Neilson Powless
-    - James Shaw
-    - Rigoberto Uran
-- teamName: Groupama-FDJ
-  cyclists:
-    - David Gaudu
-    - Kevin Geniets
-    - Stefan Küng
-    - Olivier Le Gac
-    - Valentin Madouas
-    - Quentin Pacher
-    - Thibaut Pinot
-    - Lars van den Berg
+    - Tadej Pogacar
+    - Mikkel Bjerg
+    - Felix Großschartner
+    - Vegard Stake Laengen
+    - Rafal Majka
+    - Marc Soler
+    - Matteo Trentin
+    - Adam Yates
 - teamName: INEOS Grenadiers
   cyclists:
     - Egan Bernal
@@ -89,56 +29,26 @@
     - Tom Pidcock
     - Carlos Rodriguez
     - Ben Turner
-- teamName: Intermarché-Circus-Wanty
+- teamName: Groupama-FDJ
   cyclists:
-    - Lilian Calmejane
-    - Rui Costa
-    - Biniam Girmay
-    - Louis Meintjes
-    - Adrien Petit
-    - Dion Smith
-    - Mike Teunissen
-    - Georg Zimmermann
-- teamName: Israel-Premier Tech
+    - David Gaudu
+    - Kevin Geniets
+    - Stefan Küng
+    - Olivier Le Gac
+    - Valentin Madouas
+    - Quentin Pacher
+    - Thibaut Pinot
+    - Lars van den Berg
+- teamName: EF Education-EasyPost
   cyclists:
-    - Guillaume Boivin
-    - Simon Clarke
-    - Hugo Houle
-    - Krists Neilands
-    - Nick Schultz
-    - Corbin Strong
-    - Dylan Teuns
-    - Michael Woods
-- teamName: Jumbo-Visma
-  cyclists:
-    - Tiesj Benoot
-    - Wilco Kelderman
-    - Sepp Kuss
-    - Christophe Laporte
-    - Wout van Aert
-    - Dylan van Baarle
-    - Nathan Van Hooydonck
-    - Jonas Vingegaard
-- teamName: Lotto Dstny
-  cyclists:
-    - Victor Campenaerts
-    - Jasper De Buyst
-    - Pascal Eenkhoorn
-    - Caleb Ewan
-    - Frederik Frison
-    - Jacopo Guarnieri
-    - Maxim Van Gils
-    - Florian Vermeersch
-- teamName: Movistar Team
-  cyclists:
-    - Alex Aranburu
-    - Ruben Guerreiro
-    - Gorka Izagirre
-    - Matteo Jorgenson
-    - Enric Mas
-    - Gregor Mühlberger
-    - Nelson Oliveira
-    - Antonio Pedrero
+    - Richard Carapaz
+    - Andrey Amador
+    - Alberto Bettiol
+    - Esteban Chaves
+    - Magnus Cort
+    - Neilson Powless
+    - James Shaw
+    - Rigoberto Uran
 - teamName: Soudal Quick-Step
   cyclists:
     - Julian Alaphilippe
@@ -149,6 +59,116 @@
     - Fabio Jakobsen
     - Yves Lampaert
     - Michael Mørkøv
+- teamName: Bahrain Victorious
+  cyclists:
+    - Mikel Landa
+    - Nikias Arndt
+    - Phil Bauhaus
+    - Pello Bilbao
+    - Jack Haig
+    - Matej Mohoric
+    - Wout Poels
+    - Fred Wright
+- teamName: BORA-hansgrohe
+  cyclists:
+    - Jai Hindley
+    - Emanuel Buchmann
+    - Marco Haller
+    - Bob Jungels
+    - Patrick Konrad
+    - Jordi Meeus
+    - Nils Politt
+    - Danny van Poppel
+- teamName: Lidl-Trek
+  cyclists:
+    - Giulio Ciccone
+    - Tony Gallopin
+    - Mattias Skjelmose Jensen
+    - Alex Kirsch
+    - Juan Pedro Lopez
+    - Mads Pedersen
+    - Quinn Simmons
+    - Jasper Stuyven
+- teamName: AG2R Citroën Team
+  cyclists:
+    - Ben O'Connor
+    - Clément Berthet
+    - Benoît Cosnefroy
+    - Stan Dewulf
+    - Felix Gall
+    - Oliver Naesen
+    - Aurélien Paret-Peintre
+    - Nans Peters
+- teamName: Alpecin-Deceuninck
+  cyclists:
+    - Mathieu van der Poel
+    - Silvan Dillier
+    - Michael Gogl
+    - Quinten Hermans
+    - Søren Kragh Andersen
+    - Jasper Philipsen
+    - Jonas Rickaert
+    - Ramon Sinkeldam
+- teamName: Intermarché-Circus-Wanty
+  cyclists:
+    - Biniam Girmay
+    - Lilian Calmejane
+    - Rui Costa
+    - Louis Meintjes
+    - Adrien Petit
+    - Dion Smith
+    - Mike Teunissen
+    - Georg Zimmermann
+- teamName: Cofidis
+  cyclists:
+    - Guillaume Martin
+    - Bryan Coquard
+    - Simon Geschke
+    - Ion Izagirre
+    - Victor Lafay
+    - Anthony Perez
+    - Alexis Renard
+    - Axel Zingle
+- teamName: Movistar Team
+  cyclists:
+    - Enric Mas
+    - Ruben Guerreiro
+    - Alex Aranburu
+    - Gorka Izagirre
+    - Matteo Jorgenson
+    - Gregor Mühlberger
+    - Nelson Oliveira
+    - Antonio Pedrero
+- teamName: Team dsm-firmenich
+  cyclists:
+    - Romain Bardet
+    - John Degenkolb
+    - Matthew Dinham
+    - Alex Edmondson
+    - Nils Eekhoff
+    - Chris Hamilton
+    - Kevin Vermaerke
+    - Sam Welsford
+- teamName: Israel-Premier Tech
+  cyclists:
+    - Michael Woods
+    - Guillaume Boivin
+    - Simon Clarke
+    - Hugo Houle
+    - Krists Neilands
+    - Nick Schultz
+    - Corbin Strong
+    - Dylan Teuns
+- teamName: Team Jayco-AlUla
+  cyclists:
+    - Simon Yates
+    - Lawson Craddock
+    - Luke Durbridge
+    - Dylan Groenewegen
+    - Chris Harper
+    - Christopher Juul-Jensen
+    - Luka Mezgec
+    - Elmar Reinders
 - teamName: Team Arkéa-Samsic
   cyclists:
     - Warren Barguil
@@ -159,63 +179,43 @@
     - Matis Louvel
     - Luca Mozzato
     - Laurent Pichon
-- teamName: Team DSM
+- teamName: Lotto Dstny
   cyclists:
-    - Romain Bardet
-    - John Degenkolb
-    - Matthew Dinham
-    - Alex Edmondson
-    - Nils Eekhoff
-    - Chris Hamilton
-    - Kevin Vermaerke
-    - Sam Welsford
-- teamName: Team Jayco-AlUla
+    - Caleb Ewan
+    - Victor Campenaerts
+    - Jasper De Buyst
+    - Pascal Eenkhoorn
+    - Frederik Frison
+    - Jacopo Guarnieri
+    - Maxim Van Gils
+    - Florian Vermeersch
+- teamName: Astana Qazaqstan Team
   cyclists:
-    - Lawson Craddock
-    - Luke Durbridge
-    - Dylan Groenewegen
-    - Chris Harper
-    - Christopher Juul-Jensen
-    - Luka Mezgec
-    - Elmar Reinders
-    - Simon Yates
+    - Mark Cavendish
+    - Cees Bol
+    - David De La Cruz
+    - Yevgeniy Fedorov
+    - Alexey Lutsenko
+    - Gianni Moscon
+    - Luis León Sánchez
+    - Harold Tejada
+- teamName: Uno-X Pro Cycling Team
+  cyclists:
+    - Alexander Kristoff
+    - Jonas Abrahamsen
+    - Anthon Charmig
+    - Tobias Halland Johannessen
+    - Rasmus Tiller
+    - Torstein Træen
+    - Søren Wærenskjold
+    - Jonas Gregaard
 - teamName: TotalEnergies
   cyclists:
+    - Peter Sagan
     - Edvald Boasson-Hagen
     - Mathieu Burgaudeau
     - Steff Cras
     - Valentin Ferron
     - Pierre Latour
     - Daniel Oss
-    - Peter Sagan
     - Anthony Turgis
-- teamName: Lidl-Trek
-  cyclists:
-    - Giulio Ciccone
-    - Tony Gallopin
-    - Alex Kirsch
-    - Juan Pedro Lopez
-    - Mads Pedersen
-    - Quinn Simmons
-    - Mattias Skjelmose Jensen
-    - Jasper Stuyven
-- teamName: UAE Team Emirates
-  cyclists:
-    - Mikkel Bjerg
-    - Felix Großschartner
-    - Vegard Stake Laengen
-    - Rafal Majka
-    - Tadej Pogacar
-    - Marc Soler
-    - Matteo Trentin
-    - Adam Yates
-- teamName: Uno-X Pro Cycling Team
-  cyclists:
-    - Jonas Abrahamsen
-    - Anthon Charmig
-    - Jonas Gregaard
-    - Tobias Halland Johannessen
-    - Alexander Kristoff
-    - Rasmus Tiller
-    - Torstein Træen
-    - Søren Wærenskjold
