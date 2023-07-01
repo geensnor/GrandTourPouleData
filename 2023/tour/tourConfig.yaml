@@ -1,7 +1,6 @@
 ---
 name: Tour de France 2023
 status: open
-start: 2022-07-01
 maxCyclistsInUserTeam: 12
 widgetURL: https://firstcycling.com/widget/?r=17&y=2023&s={stageNumber}&lang=NED
 jerseys:
