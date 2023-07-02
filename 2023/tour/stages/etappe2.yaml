@@ -2,10 +2,20 @@
 number: 2
 route: Vitoria - Gasteiz- San Sebastian
 date: "2023-07-02"
-status: notStarted
-stageResults: ""
+status: finished
+stageResults:
+  - Victor Lafay
+  - Wout van Aert
+  - Tadej Pogacar
+  - Tom Pidcock
+  - Pello Bilbao
+  - Mattias Skjelmose
+  - Michael Woods
+  - Romain Bardet
+  - Dylan Teuns
+  - Jai Hindley
 jerseyWearers:
   - jersey: De Gele Trui
-    cyclist: ""
+    cyclist: Adam Yates
   - jersey: De Bolletjes Trui
-    cyclist: ""
+    cyclist: Neilson Powless
