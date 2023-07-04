@@ -2,10 +2,20 @@
 number: 4
 route: Dax - Nogaro
 date: "2023-07-04"
-status: notStarted
-stageResults: ""
+status: finished
+stageResults:
+  - Jasper Philipsen
+  - Caleb Ewan
+  - Phil Bauhaus
+  - Bryan Coquard
+  - Mark Cavendish
+  - Danny van Poppel
+  - Alexander Kristoff
+  - Luka Mezgec
+  - Wout van Aert
+  - Mads Pedersen
 jerseyWearers:
   - jersey: De Gele Trui
-    cyclist: ""
+    cyclist: Adam Yates
   - jersey: De Bolletjes Trui
-    cyclist: ""
+    cyclist: Neilson Powless
