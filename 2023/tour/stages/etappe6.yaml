@@ -2,10 +2,20 @@
 number: 6
 route: Tarbes - Cauterets-Cambasque ⛰️
 date: "2023-07-06"
-status: notStarted
-stageResults: ""
+status: finished
+stageResults:
+  - Tadej Pogacar
+  - Jonas Vingegaard
+  - Tobias Halland Johannessen
+  - Ruben Guerreiro
+  - James Shaw
+  - Jai Hindley
+  - Carlos Rodriguez
+  - Simon Yates
+  - Adam Yates
+  - Romain Bardet
 jerseyWearers:
   - jersey: De Gele Trui
-    cyclist: ""
+    cyclist: Jonas Vingegaard
   - jersey: De Bolletjes Trui
-    cyclist: ""
+    cyclist: Neilson Powless
