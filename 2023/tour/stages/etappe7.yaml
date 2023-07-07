@@ -2,10 +2,20 @@
 number: 7
 route: Mont - de-Marsan-Bordeaux
 date: "2023-07-07"
-status: notStarted
-stageResults: ""
+status: finished
+stageResults: 
+  - Jasper Philipsen
+  - Mark Cavendish
+  - Biniam Girmay
+  - Luca Mozzato
+  - Dylan Groenewegen
+  - Jordi Meeus
+  - Phil Bauhaus
+  - Bryan Coquard
+  - Alexander Kristoff
+  - Mads Pedersen
 jerseyWearers:
   - jersey: De Gele Trui
-    cyclist: ""
+    cyclist: Jonas Vingegaard
   - jersey: De Bolletjes Trui
-    cyclist: ""
+    cyclist: Neilson Powless
