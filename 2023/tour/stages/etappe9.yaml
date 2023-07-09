@@ -2,10 +2,20 @@
 number: 9
 route: Saint - Léonard-de-Noblat-Puy de Dôme ⛰️
 date: "2023-07-09"
-status: notStarted
-stageResults: ""
+status: finished
+stageResults:
+  - Michael Woods
+  - Pierre Latour
+  - Matej Mohoric
+  - Matteo Jorgenson
+  - Clément Berthet
+  - Neilson Powless
+  - Alexey Lutsenko
+  - Jonas Gregaard
+  - Mathieu Burgaudeau
+  - David De La Cruz
 jerseyWearers:
   - jersey: De Gele Trui
-    cyclist: ""
+    cyclist: Jonas Vingegaard
   - jersey: De Bolletjes Trui
-    cyclist: ""
+    cyclist: Neilson Powless
