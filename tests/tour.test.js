@@ -2,9 +2,7 @@ import { assert, expect, test } from "vitest";
 import fs from "fs";
 import yaml from "js-yaml";
 
-const currentTourFile = fs.readFileSync("currentTour.yaml", "utf8");
-
-const currentTourData = yaml.load(currentTourFile);
+const currentTourData = yaml.load(fs.readFileSync("currentTour.yaml", "utf8"));
 
 // Current tour location is not empty
 test("currentTour not null", () => {
