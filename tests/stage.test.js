@@ -40,7 +40,6 @@ test("Finished stages have stageResults", () => {
     );
 
     if (stageDataJSON.status === "finished") {
-      console.log(stageDataJSON.stageResults);
       expect(stageDataJSON.stageResults).toBeTruthy();
     }
   });
