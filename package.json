@@ -50,6 +50,7 @@
     "yocto-queue": "^1.0.0"
   },
   "devDependencies": {
+    "@vitest/ui": "^0.33.0",
     "vitest": "^0.33.0"
   },
   "scripts": {
