@@ -9,11 +9,11 @@ on:
       - ".github/**"
 
 jobs:
-  lint:
-    uses: ./.github/workflows/lint.yml
+  test:
+    uses: ./.github/workflows/test.yml
   web-deploy:
     name: 🎉 Deploy
-    needs: [lint]
+    needs: [test]
     runs-on: ubuntu-latest
     steps:
       - name: 🚚 Get latest code
@@ -24,12 +24,10 @@ jobs:
           server: 45.82.191.81
           username: tourpoule-data
           password: ${{ secrets.ftppassword }}
+          local-dir: ./data/
           exclude: |
-            /.git*
-            .git*/**
             2021/**
             2022/**
-            readme.md
           dangerous-clean-slate: true
 
   http-request:
