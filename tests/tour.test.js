@@ -2,7 +2,9 @@ import { assert, expect, test } from "vitest";
 import fs from "fs";
 import yaml from "js-yaml";
 
-const currentTourData = yaml.load(fs.readFileSync("currentTour.yaml", "utf8"));
+const currentTourData = yaml.load(
+  fs.readFileSync("data/currentTour.yaml", "utf8")
+);
 
 // Current tour location is not empty
 test("currentTour not null", () => {
@@ -12,10 +14,10 @@ test("currentTour not null", () => {
 //There are stages in the current tour location
 test("Stages present in current tour", () => {
   const currentTourStagesLocation =
-    currentTourData.currentTourLocation + "/stages/";
+    "data/" + currentTourData.currentTourLocation + "/stages/";
 
   const files = fs
-    .readdirSync(currentTourStagesLocation.slice(1))
+    .readdirSync(currentTourStagesLocation)
     .filter((element) => !element.startsWith(".")); //filter hidden files
   expect(files).not.toHaveLength(0);
 });

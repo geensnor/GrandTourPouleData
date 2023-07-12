@@ -2,11 +2,10 @@ import { assert, expect, test } from "vitest";
 import fs from "fs";
 import yaml from "js-yaml";
 
-const currentTourFile = fs.readFileSync("currentTour.yaml", "utf8");
+const currentTourFile = fs.readFileSync("data/currentTour.yaml", "utf8");
 const currentTourData = yaml.load(currentTourFile);
-const currentTourStagesLocation = (
-  currentTourData.currentTourLocation + "/stages/"
-).slice(1);
+const currentTourStagesLocation =
+  "data/" + currentTourData.currentTourLocation + "/stages/";
 
 const files = fs
   .readdirSync(currentTourStagesLocation)
@@ -14,7 +13,7 @@ const files = fs
 
 const cyclistsJSON = yaml.load(
   fs.readFileSync(
-    (currentTourData.currentTourLocation + "/cyclists.yaml").slice(1),
+    "data/" + currentTourData.currentTourLocation + "/cyclists.yaml",
     "utf8"
   )
 );
