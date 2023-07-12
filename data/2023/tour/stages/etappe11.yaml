@@ -2,10 +2,20 @@
 number: 11
 route: Clermont - Ferrand-Moulins
 date: "2023-07-12"
-status: notStarted
-stageResults: ""
+status: finished
+stageResults:
+  - Jasper Philipsen
+  - Dylan Groenewegen
+  - Phil Bauhaus
+  - Bryan Coquard
+  - Mads Pedersen
+  - Alexander Kristoff
+  - Luca Mozzato
+  - Peter Sagan
+  - Wout van Aert
+  - Sam Welsford
 jerseyWearers:
   - jersey: De Gele Trui
-    cyclist: ""
+    cyclist: Jonas Vingegaard
   - jersey: De Bolletjes Trui
-    cyclist: ""
+    cyclist: Neilson Powless
