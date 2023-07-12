@@ -32,14 +32,18 @@ test("Status stage only notStarted or finished", () => {
   });
 });
 
-test("Finished stages have stageResults", () => {
+test("Finished stages have same number of stageResults as in tour config defined", () => {
+  
+  //Read tour config
+  const currentTourConfigJSON = yaml.load(fs.readFileSync("data" + currentTourData.currentTourLocation + "/tourConfig.yaml", "utf8"));
+
   files.forEach((file) => {
     let stageDataJSON = yaml.load(
       fs.readFileSync(currentTourStagesLocation + file, "utf8")
     );
 
     if (stageDataJSON.status === "finished") {
-      expect(stageDataJSON.stageResults).toBeTruthy();
+      expect(stageDataJSON.stageResults.length).toEqual(currentTourConfigJSON.scoring.length)
     }
   });
 });
