@@ -26,11 +26,8 @@ jobs:
           password: ${{ secrets.ftppassword }}
           local-dir: ./data/
           exclude: |
-            /.git*
-            .git*/**
             2021/**
             2022/**
-            readme.md
           dangerous-clean-slate: true
 
   http-request:
