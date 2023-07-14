@@ -2,10 +2,20 @@
 number: 13
 route: Châtillon - sur-Chalaronne-Grand Colombier ⛰️
 date: "2023-07-14"
-status: notStarted
-stageResults: ""
+status: finished
+stageResults:
+  - Michal Kwiatkowski
+  - Maxim Van Gils
+  - Tadej Pogacar
+  - Jonas Vingegaard
+  - Tom Pidcock
+  - Jai Hindley
+  - James Shaw
+  - Harold Tejada
+  - Simon Yates
+  - Adam Yates
 jerseyWearers:
   - jersey: De Gele Trui
-    cyclist: ""
+    cyclist: Jonas Vingegaard
   - jersey: De Bolletjes Trui
-    cyclist: ""
+    cyclist: Neilson Powless
