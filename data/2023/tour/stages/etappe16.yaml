@@ -2,10 +2,20 @@
 number: 16
 route: Combloux - Combloux ⏰
 date: "2023-07-18"
-status: notStarted
-stageResults: ""
+status: finished
+stageResults:
+  - Jonas Vingegaard
+  - Tadej Pogacar
+  - Wout van Aert
+  - Pello Bilbao
+  - Simon Yates
+  - Remi Cavagna
+  - Adam Yates
+  - Mattias Skjelmose
+  - Mads Pedersen
+  - David Gaudu
 jerseyWearers:
   - jersey: De Gele Trui
-    cyclist: ""
+    cyclist: Jonas Vingegaard
   - jersey: De Bolletjes Trui
-    cyclist: ""
+    cyclist: Giulio Ciccone
