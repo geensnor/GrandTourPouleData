@@ -2,10 +2,20 @@
 number: 17
 route: Saint Gervais Mont - Blanc-Courchevel
 date: "2023-07-19"
-status: notStarted
-stageResults: ""
+status: finished
+stageResults:
+  - Felix Gall
+  - Simon Yates
+  - Pello Bilbao
+  - Jonas Vingegaard
+  - David Gaudu
+  - Tobias Halland Johannessen
+  - Chris Harper
+  - Rafal Majka
+  - Adam Yates
+  - Wilco Kelderman
 jerseyWearers:
   - jersey: De Gele Trui
-    cyclist: ""
+    cyclist: Jonas Vingegaard
   - jersey: De Bolletjes Trui
-    cyclist: ""
+    cyclist: Giulio Ciccone
