@@ -2,10 +2,20 @@
 number: 19
 route: Moirans - en-Montagne-Poligny ⛰️
 date: "2023-07-21"
-status: notStarted
-stageResults: ""
+status: finished
+stageResults:
+  - Matej Mohoric
+  - Kasper Asgreen
+  - Ben O'Connor
+  - Jasper Philipsen
+  - Mads Pedersen
+  - Christophe Laporte
+  - Luka Mezgec
+  - Alberto Bettiol
+  - Matteo Trentin
+  - Tom Pidcock
 jerseyWearers:
   - jersey: De Gele Trui
-    cyclist: ""
+    cyclist: Jonas Vingegaard
   - jersey: De Bolletjes Trui
-    cyclist: ""
+    cyclist: Giulio Ciccone
