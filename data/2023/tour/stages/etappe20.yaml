@@ -2,10 +2,20 @@
 number: 20
 route: Belfort - Le Markstein ⛰️
 date: "2023-07-22"
-status: notStarted
-stageResults: ""
+status: finished
+stageResults:
+  - Tadej Pogacar
+  - Felix Gall
+  - Jonas Vingegaard
+  - Simon Yates
+  - Adam Yates
+  - Warren Barguil
+  - Thibaut Pinot
+  - Pello Bilbao
+  - Tobias Halland Johannessen
+  - Rafal Majka
 jerseyWearers:
   - jersey: De Gele Trui
-    cyclist: ""
+    cyclist: Jonas Vingegaard
   - jersey: De Bolletjes Trui
-    cyclist: ""
+    cyclist: Giulio Ciccone
