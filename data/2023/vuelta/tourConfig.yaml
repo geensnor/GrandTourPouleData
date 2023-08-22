@@ -1,0 +1,30 @@
+---
+name: Vuelta a España
+status: open
+maxCyclistsInUserTeam: 12
+tourURL: https://firstcycling.com/race.php?r=23&y=2023
+jerseys:
+  De Rode Trui: 10
+  De Bolletjes Trui: 5
+scoring:
+  - 30
+  - 15
+  - 12
+  - 9
+  - 8
+  - 7
+  - 6
+  - 5
+  - 4
+  - 3
+finalStandingScoring:
+  - 150
+  - 75
+  - 50
+  - 40
+  - 35
+  - 30
+  - 28
+  - 26
+  - 24
+  - 22

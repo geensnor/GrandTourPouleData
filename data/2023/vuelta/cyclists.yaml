@@ -1,0 +1,197 @@
+---
+- teamName: AG2R Citroën Team
+  cyclists:
+    - Geoffrey Bouchard
+    - Mikaël Chérel
+    - Dorian Godon
+    - Paul Lapeira
+    - Nicolas Prodhomme
+    - Damien Touzé
+    - Andrea Vendrame
+    - Lawrence Warbasse
+- teamName: Alpecin-Deceuninck
+  cyclists:
+- teamName: Arkéa-Samsic
+  cyclists:
+    - Elie Gesbert
+    - Hugo Hofstetter
+    - Mathis Le Berre
+    - Kevin Ledanois
+    - Lukasz Owsian
+    - Michel Ries
+    - Cristian Rodriguez
+    - Kévin Vauquelin
+- teamName: Astana Qazaqstan Team
+  cyclists:
+    - Samuele Battistella
+    - David de la Cruz
+    - Joe Dombrowski
+    - Fabio Felline
+    - Vadim Pronskiy
+    - Javier Romo
+    - Luis León Sánchez
+    - Andrey Zeits
+- teamName: Bahrain Victorious
+  cyclists:
+    - Santiago Buitrago
+    - Damiano Caruso
+    - Matevz Govekar
+    - Kamil Gradek
+    - Mikel Landa
+    - Wout Poels
+    - Jasha Sütterlin
+    - Antonio Tiberi
+- teamName: BORA-hansgrohe
+  cyclists:
+- teamName: Burgos-BH
+  cyclists:
+- teamName: Caja Rural-Seguros RGA
+  cyclists:
+    - Orluis Aular
+    - Abel Balderstone
+    - Fernando Barceló
+    - Jon Barrenetxea
+    - Jefferson Cepeda
+    - David González
+    - Joel Nicolau
+    - Michal Schlegel
+- teamName: Cofidis
+  cyclists:
+    - François Bidard
+    - André Carvalho
+    - Davide Cimolai
+    - Bryan Coquard
+    - Ruben Fernandez
+    - Jesus Herrada
+    - Jose Herrada
+    - Rémy Rochas
+- teamName: EF Education-EasyPost
+  cyclists:
+    - Stefan Bissegger
+    - Jonathan Caicedo
+    - Diego Camargo
+    - Hugh Carthy
+    - Andrea Piccolo
+    - Sean Quinn
+    - Julius van den Berg
+    - Marijn van den Berg
+- teamName: Groupama-FDJ
+  cyclists:
+    - Lewis Askey
+    - Clément Davy
+    - Lorenzo Germani
+    - Romain Grégoire
+    - Lenny Martinez
+    - Rudy Molard
+    - Michael Storer
+    - Samuel Watson
+- teamName: INEOS Grenadiers
+  cyclists:
+    - Thymen Arensman
+    - Egan Bernal
+    - Jonathan Castroviejo
+    - Laurens De Plus
+    - Omar Fraile
+    - Filippo Ganna
+    - Kim Heiduk
+    - Geraint Thomas
+- teamName: Intermarché-Circus-Wanty
+  cyclists:
+    - Rui Costa
+    - Kobe Goossens
+    - Rune Herregodts
+    - Julius Johansen
+    - Hugo Page
+    - Rein Taaramäe
+    - Gerben Thijssen
+    - Boy van Poppel
+- teamName: Jumbo-Visma
+  cyclists:
+    - Robert Gesink
+    - Wilco Kelderman
+    - Sepp Kuss
+    - Primoz Roglic
+    - Jan Tratnik
+    - Attila Valter
+    - Dylan van Baarle
+    - Jonas Vingegaard
+- teamName: Lidl-Trek
+  cyclists:
+    - Julien Bernard
+    - Kenny Elissonde
+    - Amanuel Gebreigzabhier
+    - Juan Pedro Lopez
+    - Bauke Mollema
+    - Jacopo Mosca
+    - Edward Theuns
+    - Otto Vergaerde
+- teamName: Lotto Dstny
+  cyclists:
+    - Thomas De Gendt
+    - Jarrad Drizners
+    - Sébastien Grignard
+    - Andreas Kron
+    - Milan Menten
+    - Sylvain Moniquet
+    - Eduardo Sepulveda
+    - Lennert Van Eetvelt
+- teamName: Movistar Team
+  cyclists:
+    - Jorge Arcas
+    - Iván García Cortina
+    - Ruben Guerreiro
+    - Oier Lazkano
+    - Enric Mas
+    - Nelson Oliveira
+    - Einer Rubio
+    - Carlos Verona
+- teamName: Soudal Quick-Step
+  cyclists:
+    - Andrea Bagioli
+    - Mattia Cattaneo
+    - Remco Evenepoel
+    - Jan Hirt
+    - James Knox
+    - Casper Pedersen
+    - Pieter Serry
+    - Louis Vervaeke
+- teamName: Team dsm-firmenich
+  cyclists:
+    - Romain Bardet
+    - Romain Combaud
+    - Alberto Dainese
+    - Sean Flynn
+    - Chris Hamilton
+    - Lorenzo Milesi
+    - Oscar Onley
+    - Max Poole
+- teamName: Team Jayco-AlUla
+  cyclists:
+    - Welay Berhe
+    - Edward Dunbar
+    - Felix Engelhardt
+    - Michael Hepburn
+    - Jan Maas
+    - Callum Scotson
+    - Matteo Sobrero
+    - Filippo Zana
+- teamName: TotalEnergies
+  cyclists:
+    - Thomas Bonnet
+    - Steff Cras
+    - Fabien Doubey
+    - Alan Jousseaume
+    - Pierre Latour
+    - Paul Ourselin
+    - Geoffrey Soupe
+    - Dries van Gestel
+- teamName: UAE Team Emirates
+  cyclists:
+    - Joao Almeida
+    - Juan Ayuso
+    - Finn Fisher-Black
+    - Sebastian Molano
+    - Ivo Oliveira
+    - Rui Oliveira
+    - Marc Soler
+    - Jay Vine
