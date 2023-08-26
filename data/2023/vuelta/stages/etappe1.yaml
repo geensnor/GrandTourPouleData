@@ -1,11 +1,21 @@
 ---
 number: 1
 route: Barcelona - Barcelona | TTT
-date: '2023-08-26'
-status: notStarted
-stageResults: ''
+date: "2023-08-26"
+status: finished
+stageResults:
+  - Lorenzo Milesi
+  - Max Poole
+  - Romain Bardet
+  - Sean Flynn
+  - Oscar Onley
+  - Chris Hamilton
+  - Alberto Dainese
+  - Romain Combaud
+  - Enric Mas
+  - Einer Rubio
 jerseyWearers:
   - jersey: De Rode Trui
-    cyclist: ''
+    cyclist: ""
   - jersey: De Bolletjes Trui
-    cyclist: ''
+    cyclist: ""
