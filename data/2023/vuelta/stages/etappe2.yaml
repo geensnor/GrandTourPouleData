@@ -1,11 +1,21 @@
 ---
 number: 2
 route: Mataró - Barcelona
-date: '2023-08-27'
-status: notStarted
-stageResults: ''
+date: "2023-08-27"
+status: finished
+stageResults:
+  - Andreas Kron
+  - Kaden Groves
+  - Andrea Vendrame
+  - Andrea Bagioli
+  - Fernando Barceló
+  - Iván García Cortina
+  - Romain Grégoire
+  - Lennert Van Eetvelt
+  - Marijn van den Berg
+  - Kobe Goossens
 jerseyWearers:
   - jersey: De Rode Trui
-    cyclist: ''
+    cyclist: Andrea Piccolo
   - jersey: De Bolletjes Trui
-    cyclist: ''
+    cyclist: Matteo Sobrero
