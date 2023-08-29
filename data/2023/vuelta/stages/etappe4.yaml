@@ -1,11 +1,21 @@
 ---
 number: 4
 route: Andorra la Vella - Tarragona
-date: '2023-08-29'
-status: notStarted
-stageResults: ''
+date: "2023-08-29"
+status: finished
+stageResults:
+  - Kaden Groves
+  - Sebastian Molano
+  - Edward Theuns
+  - Milan Menten
+  - Dries van Gestel
+  - Orluis Aular
+  - Hugo Page
+  - Lewis Askey
+  - Sean Flynn
+  - Andrea Vendrame
 jerseyWearers:
   - jersey: De Rode Trui
-    cyclist: ''
+    cyclist: Remco Evenepoel
   - jersey: De Bolletjes Trui
-    cyclist: ''
+    cyclist: Eduardo Sepulveda
