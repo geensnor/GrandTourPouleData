@@ -1,11 +1,21 @@
 ---
 number: 5
 route: Morella - Burriana
-date: '2023-08-30'
-status: notStarted
-stageResults: ''
+date: "2023-08-30"
+status: finished
+stageResults:
+  - Kaden Groves
+  - Filippo Ganna
+  - Dries van Gestel
+  - Alberto Dainese
+  - Lewis Askey
+  - Edward Theuns
+  - David González
+  - Geoffrey Soupe
+  - Jesus Ezquerra
+  - Jarrad Drizners
 jerseyWearers:
   - jersey: De Rode Trui
-    cyclist: ''
+    cyclist: Remco Evenepoel
   - jersey: De Bolletjes Trui
-    cyclist: ''
+    cyclist: Eduardo Sepulveda
