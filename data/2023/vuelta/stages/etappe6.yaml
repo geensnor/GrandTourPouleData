@@ -1,11 +1,21 @@
 ---
 number: 6
 route: La Vall d'Uixó - Observatorio Astrofísico de Javalambre
-date: '2023-08-31'
-status: notStarted
-stageResults: ''
+date: "2023-08-31"
+status: finished
+stageResults:
+  - Sepp Kuss
+  - Lenny Martinez
+  - Romain Bardet
+  - Mikel Landa
+  - Marc Soler
+  - Wout Poels
+  - Einer Rubio
+  - Cristian Rodriguez
+  - Steff Cras
+  - Jefferson Cepeda
 jerseyWearers:
   - jersey: De Rode Trui
-    cyclist: ''
+    cyclist: Lenny Martinez
   - jersey: De Bolletjes Trui
-    cyclist: ''
+    cyclist: Eduardo Sepulveda
