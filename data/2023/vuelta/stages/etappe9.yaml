@@ -4,16 +4,16 @@ route: Cartagena - Caravaca de la Cruz
 date: '2023-09-03'
 status: finished
 stageResults: 
- - Lennard Kämna
- - Matteo Sobrero
- - Chris Hamilton
- - Amanuel Gebreigzabhier
- - Jon Barrenetxea
- - Ruben Fernandez
- - Jonathan Caicedo
- - Daniel Navarro
- - Enric Mas
- - Aleksandr Vlasov
+  - Lennard Kämna
+  - Matteo Sobrero
+  - Chris Hamilton
+  - Amanuel Gebreigzabhier
+  - Jon Barrenetxea
+  - Ruben Fernandez
+  - Jonathan Caicedo
+  - Daniel Navarro
+  - Enric Mas
+  - Aleksandr Vlasov
 jerseyWearers:
   - jersey: De Rode Trui
     cyclist: Sepp Kuss
