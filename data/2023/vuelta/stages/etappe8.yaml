@@ -1,11 +1,21 @@
 ---
 number: 8
 route: Dénia - Xorret de Catí
-date: '2023-09-02'
-status: notStarted
-stageResults: ''
+date: "2023-09-02"
+status: finished
+stageResults:
+  - Primoz Roglic
+  - Remco Evenepoel
+  - Juan Ayuso
+  - Enric Mas
+  - Jonas Vingegaard
+  - Joao Almeida
+  - Sepp Kuss
+  - Marc Soler
+  - Wout Poels
+  - Aleksandr Vlasov
 jerseyWearers:
   - jersey: De Rode Trui
-    cyclist: ''
+    cyclist: Sepp Kuss
   - jersey: De Bolletjes Trui
-    cyclist: ''
+    cyclist: Eduardo Sepulveda
