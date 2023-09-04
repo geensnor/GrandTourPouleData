@@ -16,7 +16,7 @@
 
 - Elke etappe heeft een eigen yaml bestand in de stages directory waarin de uitslag en een aantal andere variabelen worden vastgelegd.
 - Etappe is is altijd zichbaar in de tour en moet dus ook voor de start zijn opgevoerd. Als hij de status "finished" heeft, worden de uitslagen meegeteld en krijgt in in de tourpoule een finishvlag.
-- De [Tourtool](http://geensnor.nl/tourtool/) ook de winnaars van een etappe scrapen.
+- De [Tourtool](http://geensnor.nl/tourtool/) kan ook de winnaars van een etappe scrapen.
 
 ## Let op
 
