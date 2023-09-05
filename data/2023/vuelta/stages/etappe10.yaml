@@ -1,11 +1,21 @@
 ---
 number: 10
 route: Valladolid - Valladolid
-date: '2023-09-05'
-status: notStarted
-stageResults: ''
+date: "2023-09-05"
+status: finished
+stageResults:
+  - Filippo Ganna
+  - Remco Evenepoel
+  - Primoz Roglic
+  - Joao Almeida
+  - Aleksandr Vlasov
+  - Mattia Cattaneo
+  - Juan Ayuso
+  - Marc Soler
+  - Nelson Oliveira
+  - Jonas Vingegaard
 jerseyWearers:
   - jersey: De Rode Trui
-    cyclist: ''
+    cyclist: Sepp Kuss
   - jersey: De Bolletjes Trui
-    cyclist: ''
+    cyclist: Eduardo Sepulveda
