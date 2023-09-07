@@ -1,11 +1,21 @@
 ---
 number: 11
 route: Lerma - La Laguna Negra
-date: '2023-09-06'
-status: notStarted
-stageResults: ''
+date: "2023-09-06"
+status: finished
+stageResults:
+  - Jesus Herrada
+  - Romain Grégoire
+  - Andreas Kron
+  - Jonathan Caicedo
+  - Geraint Thomas
+  - Pelayo Sanchez Mayo
+  - Rudy Molard
+  - Nicolas Prodhomme
+  - Dorian Godon
+  - Filippo Ganna
 jerseyWearers:
   - jersey: De Rode Trui
-    cyclist: ''
+    cyclist: Sepp Kuss
   - jersey: De Bolletjes Trui
-    cyclist: ''
+    cyclist: Jesus Herrada
