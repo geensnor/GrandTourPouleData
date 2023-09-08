@@ -1,11 +1,21 @@
 ---
 number: 13
 route: Formigal -  Col du Tourmalet
-date: '2023-09-08'
-status: notStarted
-stageResults: ''
+date: "2023-09-08"
+status: finished
+stageResults:
+  - Jonas Vingegaard
+  - Sepp Kuss
+  - Primoz Roglic
+  - Juan Ayuso
+  - Cian Uijtdebroeks
+  - Enric Mas
+  - Mikel Landa
+  - Aleksandr Vlasov
+  - Steff Cras
+  - Marc Soler
 jerseyWearers:
   - jersey: De Rode Trui
-    cyclist: ''
+    cyclist: Sepp Kuss
   - jersey: De Bolletjes Trui
-    cyclist: ''
+    cyclist: Jonas Vingegaard
