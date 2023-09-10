@@ -1,11 +1,21 @@
 ---
 number: 15
 route: Pamplona - Lekunberri
-date: '2023-09-10'
-status: notStarted
-stageResults: ''
+date: "2023-09-10"
+status: finished
+stageResults:
+  - Rui Costa
+  - Lennard Kämna
+  - Santiago Buitrago
+  - Remco Evenepoel
+  - Andreas Kron
+  - Einer Rubio
+  - Cristian Rodriguez
+  - Chris Hamilton
+  - Nico Denz
+  - Jimmy Janssens
 jerseyWearers:
   - jersey: De Rode Trui
-    cyclist: ''
+    cyclist: Sepp Kuss
   - jersey: De Bolletjes Trui
-    cyclist: ''
+    cyclist: Remco Evenepoel
