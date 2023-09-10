@@ -1,11 +1,21 @@
 ---
 number: 14
 route: Sauveterre - de-Béarn-Larra-Belagua
-date: '2023-09-09'
-status: notStarted
-stageResults: ''
+date: "2023-09-09"
+status: finished
+stageResults:
+  - Remco Evenepoel
+  - Romain Bardet
+  - Lennert Van Eetvelt
+  - Jonathan Castroviejo
+  - Michael Storer
+  - David de la Cruz
+  - Aleksandr Vlasov
+  - Sepp Kuss
+  - Wout Poels
+  - Juan Ayuso
 jerseyWearers:
   - jersey: De Rode Trui
-    cyclist: ''
+    cyclist: Sepp Kuss
   - jersey: De Bolletjes Trui
-    cyclist: ''
+    cyclist: Remco Evenepoel
