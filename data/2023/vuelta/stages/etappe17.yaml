@@ -1,11 +1,21 @@
 ---
 number: 17
 route: Ribadesella - Altu de L'Angliru
-date: '2023-09-13'
-status: notStarted
-stageResults: ''
+date: "2023-09-13"
+status: finished
+stageResults:
+  - Primoz Roglic
+  - Jonas Vingegaard
+  - Sepp Kuss
+  - Mikel Landa
+  - Wout Poels
+  - Joao Almeida
+  - Cian Uijtdebroeks
+  - Santiago Buitrago
+  - Juan Ayuso
+  - Enric Mas
 jerseyWearers:
   - jersey: De Rode Trui
-    cyclist: ''
+    cyclist: Sepp Kuss
   - jersey: De Bolletjes Trui
-    cyclist: ''
+    cyclist: Remco Evenepoel
