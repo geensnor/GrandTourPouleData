@@ -1,11 +1,21 @@
 ---
 number: 16
 route: Liencres - Bejes
-date: '2023-09-12'
-status: notStarted
-stageResults: ''
+date: "2023-09-12"
+status: finished
+stageResults:
+  - Jonas Vingegaard
+  - Finn Fisher-Black
+  - Wout Poels
+  - Michael Storer
+  - Juan Ayuso
+  - Enric Mas
+  - Aleksandr Vlasov
+  - Primoz Roglic
+  - Mikel Landa
+  - Sepp Kuss
 jerseyWearers:
   - jersey: De Rode Trui
-    cyclist: ''
+    cyclist: Sepp Kuss
   - jersey: De Bolletjes Trui
-    cyclist: ''
+    cyclist: Remco Evenepoel
