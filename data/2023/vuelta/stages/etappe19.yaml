@@ -4,16 +4,16 @@ route: La Bañeza - Íscar
 date: '2023-09-15'
 status: finished
 stageResults:
- - Alberto Dainese
- - Filippo Ganna
- - Marijn van den Berg
- - Davide Cimolai
- - Iván García Cortina
- - Maurice Ballerstedt
- - Lewis Askey
- - Hugo Hofstetter
- - Fernando Barcelóv
- - Jonas Koch
+  - Alberto Dainese
+  - Filippo Ganna
+  - Marijn van den Berg
+  - Davide Cimolai
+  - Iván García Cortina
+  - Maurice Ballerstedt
+  - Lewis Askey
+  - Hugo Hofstetter
+  - Fernando Barcelóv
+  - Jonas Koch
 jerseyWearers:
   - jersey: De Rode Trui
     cyclist: Sepp Kuss
