@@ -2,10 +2,20 @@
 number: 20
 route: Manzanares El Real - Guadarrama
 date: '2023-09-16'
-status: notStarted
-stageResults: ''
+status: finished
+stageResults:
+    - Wout Poels
+    - Remco Evenepoel
+    - Pelayo Sanchez Mayo
+    - Lennert Van Eetvelt
+    - Marc Soler
+    - Rui Costa
+    - Antonio Tiberi
+    - Lennard Kämna
+    - Romain Bardet
+    - Einer Rubio
 jerseyWearers:
   - jersey: De Rode Trui
-    cyclist: ''
+    cyclist: Sepp Kuss
   - jersey: De Bolletjes Trui
-    cyclist: ''
+    cyclist: Remco Evenepoel
