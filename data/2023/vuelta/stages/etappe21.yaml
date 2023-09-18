@@ -1,11 +1,21 @@
 ---
 number: 21
 route: Madrid - Madrid
-date: '2023-09-17'
-status: notStarted
-stageResults: ''
+date: "2023-09-17"
+status: finished
+stageResults:
+  - Kaden Groves
+  - Filippo Ganna
+  - Nico Denz
+  - Hugo Page
+  - Iván García Cortina
+  - Rui Costa
+  - Marijn van den Berg
+  - Remco Evenepoel
+  - Dries van Gestel
+  - Lennard Kämna
 jerseyWearers:
   - jersey: De Rode Trui
-    cyclist: ''
+    cyclist: Sepp Kuss
   - jersey: De Bolletjes Trui
-    cyclist: ''
+    cyclist: Remco Evenepoel
