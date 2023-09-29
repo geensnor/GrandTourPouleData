@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Tourpoule data van Geensnor",
   "main": "index.js",
+  "type": "module",
   "dependencies": {
     "acorn": "^8.10.0",
     "acorn-walk": "^8.2.0",
