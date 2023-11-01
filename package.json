@@ -31,6 +31,7 @@
     "picocolors": "^1.0.0",
     "pkg-types": "^1.0.3",
     "postcss": "^8.4.25",
+    "prettier": "^3.0.3",
     "pretty-format": "^29.6.1",
     "react-is": "^18.2.0",
     "rollup": "^3.26.2",
@@ -59,7 +60,8 @@
   "scripts": {
     "test": "vitest",
     "test:ui": "vitest --ui",
-    "test:run": "vitest run"
+    "test:run": "vitest run",
+    "format": "npx prettier data/**/**/ "
   },
   "repository": {
     "type": "git",
