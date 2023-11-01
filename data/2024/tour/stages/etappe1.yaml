@@ -1,11 +1,11 @@
 ---
 number: 1
 route: Florence - Rimini
-date: '2024-06-29'
+date: "2024-06-29"
 status: notStarted
-stageResults: ''
+stageResults: ""
 jerseyWearers:
   - jersey: De Gele Trui
-    cyclist: ''
+    cyclist: ""
   - jersey: De Bolletjes Trui
-    cyclist: ''
+    cyclist: ""

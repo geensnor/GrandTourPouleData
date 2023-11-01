@@ -1,11 +1,11 @@
 ---
 number: 3
 route: Plaisance - Turin
-date: '2024-07-01'
+date: "2024-07-01"
 status: notStarted
-stageResults: ''
+stageResults: ""
 jerseyWearers:
   - jersey: De Gele Trui
-    cyclist: ''
+    cyclist: ""
   - jersey: De Bolletjes Trui
-    cyclist: ''
+    cyclist: ""

@@ -1,11 +1,11 @@
 ---
 number: 20
 route: Nice - Col de la Couillole
-date: '2024-07-20'
+date: "2024-07-20"
 status: notStarted
-stageResults: ''
+stageResults: ""
 jerseyWearers:
   - jersey: De Gele Trui
-    cyclist: ''
+    cyclist: ""
   - jersey: De Bolletjes Trui
-    cyclist: ''
+    cyclist: ""

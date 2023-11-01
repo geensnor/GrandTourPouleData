@@ -1,11 +1,11 @@
 ---
 number: 10
 route: Orléans - Saint-Amand-Montrond
-date: '2024-07-09'
+date: "2024-07-09"
 status: notStarted
-stageResults: ''
+stageResults: ""
 jerseyWearers:
   - jersey: De Gele Trui
-    cyclist: ''
+    cyclist: ""
   - jersey: De Bolletjes Trui
-    cyclist: ''
+    cyclist: ""

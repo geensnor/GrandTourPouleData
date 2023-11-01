@@ -61,7 +61,7 @@
     "test": "vitest",
     "test:ui": "vitest --ui",
     "test:run": "vitest run",
-    "format": "npx prettier data/**/**/ "
+    "format": "npx prettier data/**/**/ -w"
   },
   "repository": {
     "type": "git",
