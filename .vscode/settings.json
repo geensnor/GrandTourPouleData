@@ -1,0 +1,6 @@
+{
+    "yaml.schemas": {
+        "schemas/stage.json": ["data/**/**/stages/*.yaml"]
+    },
+    "redhat.telemetry.enabled": false
+}
