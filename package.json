@@ -45,7 +45,7 @@
     "tinyspy": "^2.1.1",
     "type-detect": "^4.0.8",
     "ufo": "^1.1.2",
-    "vite": "^4.4.2",
+    "vite": "^4.5.1",
     "vite-node": "^0.33.0",
     "why-is-node-running": "^2.2.2",
     "yocto-queue": "^1.0.0"
