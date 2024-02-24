@@ -1,3 +1,6 @@
+permissions:
+  contents: write
+
 name: Prettier
 on: [workflow_call, workflow_dispatch]
 jobs:
