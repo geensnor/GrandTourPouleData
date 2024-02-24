@@ -37,7 +37,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Make HTTP request
-        uses: fjogeleit/http-request-action@master
+        uses: fjogeleit/http-request-action@v1
         with:
           url: ${{ secrets.httprequesturl }}
           method: "GET"
