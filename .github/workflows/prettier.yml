@@ -1,5 +1,5 @@
 name: Prettier
-on: workflow_call
+on: [workflow_call, workflow_dispatch]
 jobs:
   prettier:
     runs-on: ubuntu-latest
@@ -12,3 +12,4 @@ jobs:
         uses: creyD/prettier_action@v4.3
         with:
           prettier_options: --write **/*.{js,md,yml,yaml,json}
+          token: ${{ secrets.workflow }}
