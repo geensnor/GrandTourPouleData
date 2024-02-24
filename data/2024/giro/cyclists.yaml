@@ -1,0 +1,67 @@
+---
+- teamName: Alpecin-Deceuninck
+  cyclists:
+- teamName: ARKEA-B&B HOTELS
+  cyclists:
+- teamName: Astana Qazaqstan Team
+  cyclists:
+- teamName: Bahrain Victorious
+  cyclists:
+- teamName: BORA-hansgrohe
+  cyclists:
+   - Lennard Kämna
+- teamName: Cofidis
+  cyclists:
+- teamName: Decathlon AG2R La Mondiale
+  cyclists:
+   - Ben O'Connor
+- teamName: EF Education-EasyPost
+  cyclists:
+   - Mikkel Honore
+- teamName: Groupama-FDJ
+  cyclists:
+- teamName: INEOS Grenadiers
+  cyclists:
+   - Geraint Thomas
+- teamName: Intermarché-Wanty
+  cyclists:
+- teamName: Israel-Premier Tech
+  cyclists:
+- teamName: Lidl-Trek
+  cyclists:
+   - Andrea Bagioli
+   - Giulio Ciccone
+   - Jonathan Milan
+   - Jasper Stuyven
+- teamName: Movistar Team
+  cyclists:
+   - Nairo Quintana
+- teamName: Soudal Quick-Step
+  cyclists:
+   - Julian Alaphilippe
+   - Tim Merlier
+- teamName: Team dsm-firmenich PostNL
+  cyclists:
+- teamName: Team Jayco-AlUla
+  cyclists:
+- teamName: Team Polti Kometa
+  cyclists:
+- teamName: Team Visma | Lease a Bike
+  cyclists:
+   - Olav Kooij
+   - Cian Uijtdebroeks
+   - Wout van Aert
+- teamName: Tudor Pro Cycling Team
+  cyclists:
+- teamName: UAE Team Emirates
+  cyclists:
+   - Mikkel Bjerg
+   - Felix Großschartner
+   - Rafal Majka
+   - Sebastian Molano
+   - Domen Novak
+   - Rui Oliveira
+   - Tadej Pogacar
+   - Jay Vine
+- teamName: VF Group-Bardiani CSF-Faizanè
+  cyclists:
