@@ -12,4 +12,4 @@ jobs:
         uses: creyD/prettier_action@v4.3
         with:
           prettier_options: --write **/*.{js,md,yml,yaml,json}
-          token: ${{ secrets.tour-data-workflow-dispatch }}
+          github_token: ${{ secrets.tour-data-workflow-dispatch }}
