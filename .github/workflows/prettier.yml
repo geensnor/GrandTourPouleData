@@ -1,5 +1,5 @@
 name: Prettier
-on: [workflow_call, workflow_dispatch]
+on: workflow_call
 jobs:
   prettier:
     runs-on: ubuntu-latest

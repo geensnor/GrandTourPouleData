@@ -2,7 +2,10 @@
 name: Lint
 on: workflow_call
 jobs:
+  prettier:
+    uses: ./.github/workflows/prettier.yml
   YAMLlint:
+    needs: [prettier]
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
