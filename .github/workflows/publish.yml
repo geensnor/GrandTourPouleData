@@ -28,6 +28,7 @@ jobs:
           exclude: |
             2021/**
             2022/**
+            2023/**
           dangerous-clean-slate: true
 
   http-request:
