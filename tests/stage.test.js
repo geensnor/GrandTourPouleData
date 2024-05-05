@@ -32,12 +32,14 @@ test("Status stage only notStarted or finished", () => {
   });
 });
 
-
-
-test("Finished stages have same number of stageResults as in tour config defined", () => {
-  
+test("The stage results contain as many riders as points are given to riders in the tour config", () => {
   //Read tour config
-  const currentTourConfigJSON = yaml.load(fs.readFileSync("data" + currentTourData.currentTourLocation + "/tourConfig.yaml", "utf8"));
+  const currentTourConfigJSON = yaml.load(
+    fs.readFileSync(
+      "data" + currentTourData.currentTourLocation + "/tourConfig.yaml",
+      "utf8"
+    )
+  );
 
   files.forEach((file) => {
     let stageDataJSON = yaml.load(
@@ -45,11 +47,12 @@ test("Finished stages have same number of stageResults as in tour config defined
     );
 
     if (stageDataJSON.status === "finished") {
-      expect(stageDataJSON.stageResults.length).toEqual(currentTourConfigJSON.scoring.length)
+      expect(stageDataJSON.stageResults.length).toEqual(
+        currentTourConfigJSON.scoring.length
+      );
     }
   });
 });
-
 
 test("Stagewinners are cyclists in the current tour", () => {
   files.forEach((file) => {
