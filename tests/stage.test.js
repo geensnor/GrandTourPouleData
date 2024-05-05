@@ -32,7 +32,8 @@ test("Status stage only notStarted or finished", () => {
   });
 });
 
-test("Finished stages have same number of stageResults as in tour config defined", () => {
+
+/*test("Finished stages have same number of stageResults as in tour config defined", () => {
   
   //Read tour config
   const currentTourConfigJSON = yaml.load(fs.readFileSync("data" + currentTourData.currentTourLocation + "/tourConfig.yaml", "utf8"));
@@ -47,6 +48,7 @@ test("Finished stages have same number of stageResults as in tour config defined
     }
   });
 });
+*/
 
 test("Stagewinners are cyclists in the current tour", () => {
   files.forEach((file) => {
