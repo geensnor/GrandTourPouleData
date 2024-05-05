@@ -1,11 +1,21 @@
 ---
 number: 2
 route: San Francesco al Campo - Santuario di Oropa (Biella)
-date: '2024-05-05'
-status: notStarted
-stageResults: ''
+date: "2024-05-05"
+status: finished
+stageResults:
+  - Tadej Pogacar
+  - Daniel Martinez
+  - Geraint Thomas
+  - Lorenzo Fortunato
+  - Florian Lipowitz
+  - Michael Storer
+  - Cian Uijtdebroeks
+  - Einer Rubio
+  - Juan Pedro Lopez
+  - Jan Hirt
 jerseyWearers:
   - jersey: De Roze Trui
-    cyclist: ''
+    cyclist: Tadej Pogacar
   - jersey: De Blauwe Trui
-    cyclist: ''
+    cyclist: Tadej Pogacar
