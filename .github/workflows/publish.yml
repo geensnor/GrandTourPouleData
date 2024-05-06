@@ -19,7 +19,7 @@ jobs:
       - name: 🚚 Get latest code
         uses: actions/checkout@v4
       - name: 📂 Sync files
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
           server: 45.82.191.81
           username: tourpoule-data
