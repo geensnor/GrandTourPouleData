@@ -1,11 +1,21 @@
 ---
 number: 3
 route: Novara - Fossano
-date: '2024-05-06'
-status: notStarted
-stageResults: ''
+date: "2024-05-06"
+status: finished
+stageResults:
+  - Tim Merlier
+  - Jonathan Milan
+  - Biniam Girmay
+  - Jenthe Biermans
+  - Tobias Lund Andresen
+  - Olav Kooij
+  - Ethan Vernon
+  - Stanislaw Aniolkowski
+  - Fernando Gaviria
+  - Alberto Dainese
 jerseyWearers:
   - jersey: De Roze Trui
-    cyclist: ''
+    cyclist: Tadej Pogacar
   - jersey: De Blauwe Trui
-    cyclist: ''
+    cyclist: Tadej Pogacar
