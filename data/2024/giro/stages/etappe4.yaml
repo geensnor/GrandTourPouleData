@@ -1,11 +1,21 @@
 ---
 number: 4
 route: Acqui Terme - Andora
-date: '2024-05-07'
-status: notStarted
-stageResults: ''
+date: "2024-05-07"
+status: finished
+stageResults:
+  - Jonathan Milan
+  - Kaden Groves
+  - Phil Bauhaus
+  - Olav Kooij
+  - Tim Merlier
+  - Davide Ballerini
+  - Fernando Gaviria
+  - Enrico Zanoncello
+  - Madis Mihkels
+  - Giovanni Lonardi
 jerseyWearers:
   - jersey: De Roze Trui
-    cyclist: ''
+    cyclist: Tadej Pogacar
   - jersey: De Blauwe Trui
-    cyclist: ''
+    cyclist: Tadej Pogacar
