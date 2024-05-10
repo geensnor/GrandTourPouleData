@@ -2,10 +2,20 @@
 number: 5
 route: Genova - Lucca
 date: '2024-05-08'
-status: notStarted
-stageResults: ''
+status: finished
+stageResults:
+ - Benjamin Thomas
+ - Michael Valgren
+ - Andrea Pietrobon
+ - Enzo Paleni
+ - Jonathan Milan
+ - Caleb Ewan
+ - Phil Bauhaus
+ - Tim Merlier
+ - Olav Kooij
+ - Madis Mihkels
 jerseyWearers:
   - jersey: De Roze Trui
-    cyclist: ''
+    cyclist: Tadej Pogacar
   - jersey: De Blauwe Trui
-    cyclist: ''
+    cyclist: Tadej Pogacar
