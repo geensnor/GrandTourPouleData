@@ -2,10 +2,20 @@
 number: 7
 route: Foligno - Perugia
 date: '2024-05-10'
-status: notStarted
-stageResults: ''
+status: finisged
+stageResults:
+  - Tadej Pogacar
+  - Filippo Ganna
+  - Magnus Sheffield
+  - Thymen Arensman
+  - Max Schachmann
+  - Antonio Tiberi
+  - Lucas Plapp
+  - Daniel Martinez
+  - Mikkel Bjerg
+  - Geraint Thomas
 jerseyWearers:
   - jersey: De Roze Trui
-    cyclist: ''
+    cyclist: Tadej Pogacar
   - jersey: De Blauwe Trui
-    cyclist: ''
+    cyclist: Tadej Pogacar
