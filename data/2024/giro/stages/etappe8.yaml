@@ -1,11 +1,21 @@
 ---
 number: 8
 route: Spoleto - Prato di Tivo
-date: '2024-05-11'
-status: notStarted
-stageResults: ''
+date: "2024-05-11"
+status: finished
+stageResults:
+  - Tadej Pogacar
+  - Daniel Martinez
+  - Ben O'Connor
+  - Antonio Tiberi
+  - Geraint Thomas
+  - Einer Rubio
+  - Cian Uijtdebroeks
+  - Thymen Arensman
+  - Michael Storer
+  - Alex Baudin
 jerseyWearers:
   - jersey: De Roze Trui
-    cyclist: ''
+    cyclist: Tadej Pogacar
   - jersey: De Blauwe Trui
-    cyclist: ''
+    cyclist: Tadej Pogacar
