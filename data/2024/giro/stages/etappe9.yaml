@@ -1,11 +1,21 @@
 ---
 number: 9
 route: Avezzano - Napoli
-date: '2024-05-12'
-status: notStarted
-stageResults: ''
+date: "2024-05-12"
+status: finished
+stageResults:
+  - Olav Kooij
+  - Jonathan Milan
+  - Sebastian Molano
+  - Alberto Dainese
+  - Danny van Poppel
+  - Madis Mihkels
+  - Kaden Groves
+  - Andrea Vendrame
+  - Davide Ballerini
+  - Max Kanter
 jerseyWearers:
   - jersey: De Roze Trui
-    cyclist: ''
+    cyclist: Tadej Pogacar
   - jersey: De Blauwe Trui
-    cyclist: ''
+    cyclist: Tadej Pogacar
