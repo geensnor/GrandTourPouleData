@@ -1,11 +1,21 @@
 ---
 number: 10
 route: Pompei - Cusano Mutri (Bocca della Selva)
-date: '2024-05-14'
-status: notStarted
-stageResults: ''
+date: "2024-05-14"
+status: finished
+stageResults:
+  - Valentin Paret-Peintre
+  - Romain Bardet
+  - Jan Tratnik
+  - Andrea Bagioli
+  - Aurélien Paret-Peintre
+  - Simon Geschke
+  - Filippo Zana
+  - Domenico Pozzovivo
+  - Nicola Conci
+  - Esteban Chaves
 jerseyWearers:
   - jersey: De Roze Trui
-    cyclist: ''
+    cyclist: Tadej Pogacar
   - jersey: De Blauwe Trui
-    cyclist: ''
+    cyclist: Tadej Pogacar
