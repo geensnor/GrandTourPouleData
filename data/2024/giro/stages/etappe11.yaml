@@ -1,11 +1,22 @@
 ---
 number: 11
 route: Foiano di Val Fortore - Francavilla al Mare
-date: '2024-05-15'
-status: notStarted
-stageResults: ''
+date: "2024-05-15"
+status: finished
+stageResults:
+  - Julian Alaphilippe
+  - Jhonnatan Narvaez
+  - Quinten Hermans
+  - Michael Valgren
+  - Cristian Scaroni
+  - Matteo Trentin
+  - Simon Clarke
+  - Gijs Leemreize
+  - Mirco Maestri
+  - Benjamin Thomas
+
 jerseyWearers:
   - jersey: De Roze Trui
-    cyclist: ''
+    cyclist: Tadej Pogacar
   - jersey: De Blauwe Trui
-    cyclist: ''
+    cyclist: Tadej Pogacar
