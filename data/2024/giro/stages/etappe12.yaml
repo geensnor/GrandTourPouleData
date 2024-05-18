@@ -1,11 +1,21 @@
 ---
 number: 12
 route: Martinsicuro - Fano
-date: '2024-05-16'
-status: notStarted
-stageResults: ''
+date: "2024-05-16"
+status: finished
+stageResults:
+  - Julian Alaphilippe
+  - Jhonnatan Narvaez
+  - Quinten Hermans
+  - Michael Valgren
+  - Cristian Scaroni
+  - Matteo Trentin
+  - Simon Clarke
+  - Gijs Leemreize
+  - Mirco Maestri
+  - Benjamin Thomas
 jerseyWearers:
   - jersey: De Roze Trui
-    cyclist: ''
+    cyclist: Tadej Pogacar
   - jersey: De Blauwe Trui
-    cyclist: ''
+    cyclist: Tadej Pogacar
