@@ -1,11 +1,21 @@
 ---
 number: 14
 route: Castiglione delle Stivere - Desenzano del Garda
-date: '2024-05-18'
-status: notStarted
-stageResults: ''
+date: "2024-05-18"
+status: finished
+stageResults:
+  - Filippo Ganna
+  - Tadej Pogacar
+  - Thymen Arensman
+  - Geraint Thomas
+  - Lucas Plapp
+  - Antonio Tiberi
+  - Ben O'Connor
+  - Tobias Foss
+  - Mikkel Bjerg
+  - Edoardo Affini
 jerseyWearers:
   - jersey: De Roze Trui
-    cyclist: ''
+    cyclist: Tadej Pogacar
   - jersey: De Blauwe Trui
-    cyclist: ''
+    cyclist: Tadej Pogacar
