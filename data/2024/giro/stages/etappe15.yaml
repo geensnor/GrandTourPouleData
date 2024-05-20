@@ -1,11 +1,21 @@
 ---
 number: 15
 route: Manerba del Garda - Livigno (Mottolino)
-date: '2024-05-19'
-status: notStarted
-stageResults: ''
+date: "2024-05-19"
+status: finished
+stageResults:
+  - Tadej Pogacar
+  - Nairo Quintana
+  - Georg Steinhauser
+  - Romain Bardet
+  - Daniel Martinez
+  - Geraint Thomas
+  - Einer Rubio
+  - Ben O'Connor
+  - Thymen Arensman
+  - Jan Hirt
 jerseyWearers:
   - jersey: De Roze Trui
-    cyclist: ''
+    cyclist: Tadej Pogacar
   - jersey: De Blauwe Trui
-    cyclist: ''
+    cyclist: Tadej Pogacar
