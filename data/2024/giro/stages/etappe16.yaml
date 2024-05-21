@@ -1,11 +1,21 @@
 ---
 number: 16
 route: Livigno - Santa Cristina Valgardena / St. Christina in Gröden (Monte Pana)
-date: '2024-05-21'
-status: notStarted
-stageResults: ''
+date: "2024-05-21"
+status: finished
+stageResults:
+  - Tadej Pogacar
+  - Giulio Pellizzari
+  - Daniel Martinez
+  - Cristian Scaroni
+  - Antonio Tiberi
+  - Thymen Arensman
+  - Damiano Caruso
+  - Michael Storer
+  - Ewen Costiou
+  - Valentin Paret-Peintre
 jerseyWearers:
   - jersey: De Roze Trui
-    cyclist: ''
+    cyclist: Tadej Pogacar
   - jersey: De Blauwe Trui
-    cyclist: ''
+    cyclist: Tadej Pogacar
