@@ -1,11 +1,21 @@
 ---
 number: 17
 route: Selva di Val Gardena / Wolkenstein in Gröden - Passo del Brocon
-date: '2024-05-22'
-status: notStarted
-stageResults: ''
+date: "2024-05-22"
+status: finished
+stageResults:
+  - Georg Steinhauser
+  - Tadej Pogacar
+  - Antonio Tiberi
+  - Geraint Thomas
+  - Daniel Martinez
+  - Einer Rubio
+  - Romain Bardet
+  - Thymen Arensman
+  - Jan Hirt
+  - Rafal Majka
 jerseyWearers:
   - jersey: De Roze Trui
-    cyclist: ''
+    cyclist: Tadej Pogacar
   - jersey: De Blauwe Trui
-    cyclist: ''
+    cyclist: Tadej Pogacar
