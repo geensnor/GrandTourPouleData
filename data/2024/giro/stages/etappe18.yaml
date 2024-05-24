@@ -2,10 +2,20 @@
 number: 18
 route: Fiera di Primiero - Padova
 date: '2024-05-23'
-status: notStarted
-stageResults: ''
+status: finished
+stageResults:
+   - Tim Merlier
+   - Jonathan Milan
+   - Kaden Groves
+   - Alberto Dainese
+   - Stanislaw Aniolkowski
+   - Fernando Gaviria
+   - Madis Mihkels
+   - Caleb Ewan
+   - Davide Ballerini
+   - Sebastian Molano
 jerseyWearers:
   - jersey: De Roze Trui
-    cyclist: ''
+    cyclist: Tadej Pogacar
   - jersey: De Blauwe Trui
-    cyclist: ''
+    cyclist: Tadej Pogacar
