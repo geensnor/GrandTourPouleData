@@ -1,11 +1,21 @@
 ---
 number: 19
 route: Mortegliano - Sappada
-date: '2024-05-24'
-status: notStarted
-stageResults: ''
+date: "2024-05-24"
+status: finished
+stageResults:
+  - Andrea Vendrame
+  - Pelayo Sanchez
+  - Georg Steinhauser
+  - Jhonnatan Narvaez
+  - Lucas Plapp
+  - Simone Velasco
+  - Jan Tratnik
+  - Michael Valgren
+  - Julian Alaphilippe
+  - Quinten Hermans
 jerseyWearers:
   - jersey: De Roze Trui
-    cyclist: ''
+    cyclist: Tadej Pogacar
   - jersey: De Blauwe Trui
-    cyclist: ''
+    cyclist: Tadej Pogacar

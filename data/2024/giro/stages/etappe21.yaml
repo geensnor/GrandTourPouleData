@@ -1,11 +1,11 @@
 ---
 number: 21
 route: Roma - Roma
-date: '2024-05-26'
+date: "2024-05-26"
 status: notStarted
-stageResults: ''
+stageResults: ""
 jerseyWearers:
   - jersey: De Roze Trui
-    cyclist: ''
+    cyclist: Tadej Pogacar
   - jersey: De Blauwe Trui
-    cyclist: ''
+    cyclist: Tadej Pogacar
