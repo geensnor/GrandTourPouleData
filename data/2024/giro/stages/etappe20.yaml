@@ -2,8 +2,18 @@
 number: 20
 route: Alpago - Bassano del Grappa
 date: "2024-05-25"
-status: notStarted
-stageResults: ""
+status: finished
+stageResults:
+  - Tadej Pogacar
+  - Valentin Paret-Peintre
+  - Daniel Martinez
+  - Antonio Tiberi
+  - Einer Rubio
+  - Giulio Pellizzari
+  - Geraint Thomas
+  - Ben O'Connor
+  - Michael Storer
+  - Rafal Majka
 jerseyWearers:
   - jersey: De Roze Trui
     cyclist: Tadej Pogacar
