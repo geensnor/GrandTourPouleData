@@ -2,8 +2,18 @@
 number: 21
 route: Roma - Roma
 date: "2024-05-26"
-status: notStarted
-stageResults: ""
+status: finished
+stageResults:
+  - Tim Merlier
+  - Jonathan Milan
+  - Kaden Groves
+  - Fernando Gaviria
+  - Tim van Dijke
+  - Stanislaw Aniolkowski
+  - Alberto Dainese
+  - Giovanni Lonardi
+  - Caleb Ewan
+  - Donavan Grondin
 jerseyWearers:
   - jersey: De Roze Trui
     cyclist: Tadej Pogacar
