@@ -5,7 +5,7 @@ import yaml from "js-yaml";
 const currentTourFile = fs.readFileSync("data/currentTour.yaml", "utf8");
 const currentTourData = yaml.load(currentTourFile);
 const currentTourStagesLocation =
-  "data/" + currentTourData.currentTourLocation + "/stages/";
+  "data" + currentTourData.currentTourLocation + "/stages/";
 
 const files = fs
   .readdirSync(currentTourStagesLocation)
@@ -13,7 +13,7 @@ const files = fs
 
 const cyclistsJSON = yaml.load(
   fs.readFileSync(
-    "data/" + currentTourData.currentTourLocation + "/cyclists.yaml",
+    "data" + currentTourData.currentTourLocation + "/cyclists.yaml",
     "utf8"
   )
 );

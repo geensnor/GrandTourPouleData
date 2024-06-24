@@ -14,7 +14,7 @@ test("currentTour not null", () => {
 //There are stages in the current tour location
 test("Stages present in current tour", () => {
   const currentTourStagesLocation =
-    "data/" + currentTourData.currentTourLocation + "/stages/";
+    "data" + currentTourData.currentTourLocation + "/stages/";
 
   const files = fs
     .readdirSync(currentTourStagesLocation)
@@ -25,7 +25,7 @@ test("Stages present in current tour", () => {
 test("Cyclists in the final standing are cyclists in the current tour", () => {
   const cyclistsJSON = yaml.load(
     fs.readFileSync(
-      "data/" + currentTourData.currentTourLocation + "/cyclists.yaml",
+      "data" + currentTourData.currentTourLocation + "/cyclists.yaml",
       "utf8"
     )
   );
@@ -37,12 +37,12 @@ test("Cyclists in the final standing are cyclists in the current tour", () => {
 
   if (
     fs.existsSync(
-      "data/" + currentTourData.currentTourLocation + "/finalStanding.yaml"
+      "data" + currentTourData.currentTourLocation + "/finalStanding.yaml"
     )
   ) {
     let finalStandingDataJSON = yaml.load(
       fs.readFileSync(
-        "data/" + currentTourData.currentTourLocation + "/finalStanding.yaml",
+        "data" + currentTourData.currentTourLocation + "/finalStanding.yaml",
         "utf8"
       )
     );
