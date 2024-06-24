@@ -1,0 +1,174 @@
+---
+- teamName: Alpecin-Deceuninck
+  cyclists:
+    - Jasper Philipsen
+    - Mathieu van der Poel
+- teamName: ARKEA-B&B HOTELS
+  cyclists:
+- teamName: Astana Qazaqstan Team
+  cyclists:
+    - Davide Ballerini
+    - Cees Bol
+    - Mark Cavendish
+    - Yevgeniy Fedorov
+    - Michele Gazzoli
+    - Alexey Lutsenko
+    - Michael Mørkøv
+    - Harold Tejada
+- teamName: Bahrain Victorious
+  cyclists:
+    - Nikias Arndt
+    - Phil Bauhaus
+    - Pello Bilbao
+    - Santiago Buitrago
+    - Jack Haig
+    - Matej Mohoric
+    - Wout Poels
+    - Fred Wright
+- teamName: BORA-hansgrohe
+  cyclists:
+    - Nico Denz
+    - Jai Hindley
+    - Daniel Martinez
+    - Primoz Roglic
+    - Matteo Sobrero
+    - Danny van Poppel
+    - Aleksandr Vlasov
+- teamName: Cofidis
+  cyclists:
+    - Bryan Coquard
+    - Simon Geschke
+    - Jesus Herrada
+    - Ion Izagirre
+    - Guillaume Martin
+    - Alexis Renard
+- teamName: Decathlon AG2R La Mondiale
+  cyclists:
+    - Bruno Armirail
+    - Sam Bennett
+    - Felix Gall
+    - Dorian Godon
+    - Paul Lapeira
+    - Oliver Naesen
+    - Nans Peters
+    - Nicolas Prodhomme
+- teamName: EF Education-EasyPost
+  cyclists:
+- teamName: Groupama-FDJ
+  cyclists:
+    - David Gaudu
+    - Romain Grégoire
+    - Stefan Küng
+    - Valentin Madouas
+- teamName: INEOS Grenadiers
+  cyclists:
+    - Egan Bernal
+    - Jonathan Castroviejo
+    - Laurens De Plus
+    - Michal Kwiatkowski
+    - Tom Pidcock
+    - Carlos Rodriguez
+    - Geraint Thomas
+    - Ben Turner
+- teamName: Intermarché-Wanty
+  cyclists:
+    - Vito Braet
+    - Biniam Girmay
+    - Kobe Goossens
+    - Louis Meintjes
+    - Hugo Page
+    - Laurenz Rex
+    - Lorenzo Rota
+    - Rein Taaramäe
+    - Mike Teunissen
+    - Gerben Thijssen
+    - Gijs Van Hoecke
+    - Georg Zimmermann
+- teamName: Israel-Premier Tech
+  cyclists:
+    - Pascal Ackermann
+    - Guillaume Boivin
+    - Jakob Fuglsang
+    - Derek Gee
+    - Hugo Houle
+    - Krists Neilands
+    - Jake Stewart
+    - Stephen Williams
+- teamName: Lidl-Trek
+  cyclists:
+    - Julien Bernard
+    - Giulio Ciccone
+    - Tim Declercq
+    - Ryan Gibbons
+    - Mads Pedersen
+    - Toms Skujins
+    - Jasper Stuyven
+    - Carlos Verona
+- teamName: Lotto Dstny
+  cyclists:
+    - Cédric Beullens
+    - Victor Campenaerts
+    - Arnaud De Lie
+    - Jarrad Drizners
+    - Sébastien Grignard
+    - Maxim Van Gils
+    - Brent Van Moer
+    - Harm Vanhoucke
+- teamName: Movistar Team
+  cyclists:
+    - Alex Aranburu
+    - Davide Formolo
+    - Fernando Gaviria
+    - Oier Lazkano
+    - Enric Mas
+    - Gregor Mühlberger
+    - Nelson Oliveira
+    - Javier Romo
+- teamName: Soudal Quick-Step
+  cyclists:
+    - Remco Evenepoel
+    - Mikel Landa
+- teamName: Team dsm-firmenich PostNL
+  cyclists:
+- teamName: Team Jayco-AlUla
+  cyclists:
+    - Luke Durbridge
+    - Dylan Groenewegen
+    - Chris Harper
+    - Christopher Juul-Jensen
+    - Michael Matthews
+    - Luka Mezgec
+    - Elmar Reinders
+    - Simon Yates
+- teamName: Team Visma | Lease a Bike
+  cyclists:
+    - Tiesj Benoot
+    - Matteo Jorgenson
+    - Wilco Kelderman
+    - Sepp Kuss
+    - Christophe Laporte
+    - Jan Tratnik
+    - Wout van Aert
+    - Jonas Vingegaard
+- teamName: TotalEnergies
+  cyclists:
+- teamName: UAE Team Emirates
+  cyclists:
+    - Joao Almeida
+    - Juan Ayuso
+    - Tadej Pogacar
+    - Nils Politt
+    - Pavel Sivakov
+    - Marc Soler
+    - Tim Wellens
+    - Adam Yates
+- teamName: Uno-X Mobility
+  cyclists:
+    - Jonas Abrahamsen
+    - Magnus Cort
+    - Odd Christian Eiking
+    - Tobias Halland Johannessen
+    - Alexander Kristoff
+    - Johannes Kulset
+    - Rasmus Tiller
+    - Søren Wærenskjold
