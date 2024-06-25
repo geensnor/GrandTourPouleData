@@ -1,10 +1,24 @@
 ---
 - teamName: Alpecin-Deceuninck
   cyclists:
+    - Silvan Dillier
+    - Robbe Ghys
+    - Søren Kragh Andersen
+    - Axel Laurance
     - Jasper Philipsen
+    - Jonas Rickaert
     - Mathieu van der Poel
+    - Gianni Vermeersch
 - teamName: ARKEA-B&B HOTELS
   cyclists:
+    - Amaury Capiot
+    - Clément Champoussin
+    - Arnaud Démare
+    - Raúl García
+    - Daniel McLay
+    - Luca Mozzato
+    - Cristian Rodriguez
+    - Kévin Vauquelin
 - teamName: Astana Qazaqstan Team
   cyclists:
     - Davide Ballerini
@@ -36,12 +50,14 @@
     - Aleksandr Vlasov
 - teamName: Cofidis
   cyclists:
+    - Piet Allegaert
     - Bryan Coquard
     - Simon Geschke
     - Jesus Herrada
     - Ion Izagirre
     - Guillaume Martin
     - Alexis Renard
+    - Axel Zingle
 - teamName: Decathlon AG2R La Mondiale
   cyclists:
     - Bruno Armirail
@@ -54,12 +70,24 @@
     - Nicolas Prodhomme
 - teamName: EF Education-EasyPost
   cyclists:
+    - Alberto Bettiol
+    - Stefan Bissegger
+    - Richard Carapaz
+    - Rui Costa
+    - Ben Healy
+    - Neilson Powless
+    - Sean Quinn
+    - Marijn van den Berg
 - teamName: Groupama-FDJ
   cyclists:
     - David Gaudu
+    - Kevin Geniets
     - Romain Grégoire
     - Stefan Küng
     - Valentin Madouas
+    - Lenny Martinez
+    - Quentin Pacher
+    - Clément Russo
 - teamName: INEOS Grenadiers
   cyclists:
     - Egan Bernal
@@ -127,9 +155,23 @@
 - teamName: Soudal Quick-Step
   cyclists:
     - Remco Evenepoel
+    - Jan Hirt
+    - Yves Lampaert
     - Mikel Landa
+    - Gianni Moscon
+    - Casper Pedersen
+    - Ilan Van Wilder
+    - Louis Vervaeke
 - teamName: Team dsm-firmenich PostNL
   cyclists:
+    - Romain Bardet
+    - Warren Barguil
+    - John Degenkolb
+    - Nils Eekhoff
+    - Fabio Jakobsen
+    - Oscar Onley
+    - Frank van den Broek
+    - Bram Welten
 - teamName: Team Jayco-AlUla
   cyclists:
     - Luke Durbridge
@@ -145,13 +187,21 @@
     - Tiesj Benoot
     - Matteo Jorgenson
     - Wilco Kelderman
-    - Sepp Kuss
     - Christophe Laporte
+    - Bart Lemmen
     - Jan Tratnik
     - Wout van Aert
     - Jonas Vingegaard
 - teamName: TotalEnergies
   cyclists:
+    - Mathieu Burgaudeau
+    - Steff Cras
+    - Sandy Dujardin
+    - Thomas Gachignard
+    - Fabien Grellier
+    - Jordan Jegat
+    - Anthony Turgis
+    - Mattéo Vercher
 - teamName: UAE Team Emirates
   cyclists:
     - Joao Almeida
