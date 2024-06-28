@@ -39,15 +39,6 @@
     - Matej Mohoric
     - Wout Poels
     - Fred Wright
-- teamName: BORA-hansgrohe
-  cyclists:
-    - Nico Denz
-    - Jai Hindley
-    - Daniel Martinez
-    - Primoz Roglic
-    - Matteo Sobrero
-    - Danny van Poppel
-    - Aleksandr Vlasov
 - teamName: Cofidis
   cyclists:
     - Piet Allegaert
@@ -100,17 +91,13 @@
     - Ben Turner
 - teamName: Intermarché-Wanty
   cyclists:
-    - Vito Braet
     - Biniam Girmay
     - Kobe Goossens
     - Louis Meintjes
     - Hugo Page
     - Laurenz Rex
-    - Lorenzo Rota
-    - Rein Taaramäe
     - Mike Teunissen
     - Gerben Thijssen
-    - Gijs Van Hoecke
     - Georg Zimmermann
 - teamName: Israel-Premier Tech
   cyclists:
@@ -152,6 +139,16 @@
     - Gregor Mühlberger
     - Nelson Oliveira
     - Javier Romo
+- teamName: Red Bull-BORA-hansgrohe
+  cyclists:
+    - Nico Denz
+    - Marco Haller
+    - Jai Hindley
+    - Bob Jungels
+    - Primoz Roglic
+    - Matteo Sobrero
+    - Danny van Poppel
+    - Aleksandr Vlasov
 - teamName: Soudal Quick-Step
   cyclists:
     - Remco Evenepoel
