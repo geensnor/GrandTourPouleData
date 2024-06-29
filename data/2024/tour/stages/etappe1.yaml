@@ -2,10 +2,20 @@
 number: 1
 route: Florence - Rimini
 date: "2024-06-29"
-status: notStarted
-stageResults: ""
+status: finished
+stageResults:
+  - Romain Bardet
+  - Frank van den Broek
+  - Wout van Aert
+  - Tadej Pogacar
+  - Maxim Van Gils
+  - Alex Aranburu
+  - Mads Pedersen
+  - Remco Evenepoel
+  - Pello Bilbao
+  - Alberto Bettiol
 jerseyWearers:
   - jersey: De Gele Trui
-    cyclist: ""
+    cyclist: Romain Bardet
   - jersey: De Bolletjes Trui
-    cyclist: ""
+    cyclist: Jonas Abrahamsen
