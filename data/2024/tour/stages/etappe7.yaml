@@ -2,10 +2,20 @@
 number: 7
 route: Nuits - Saint-Georges-Gevrey-Chambertin
 date: "2024-07-05"
-status: notStarted
-stageResults: ""
+status: finished
+stageResults:
+  - Remco Evenepoel
+  - Tadej Pogacar
+  - Primoz Roglic
+  - Jonas Vingegaard
+  - Victor Campenaerts
+  - Kévin Vauquelin
+  - Matteo Jorgenson
+  - Joao Almeida
+  - Ben Healy
+  - Stefan Küng
 jerseyWearers:
   - jersey: De Gele Trui
-    cyclist: ""
+    cyclist: Tadej Pogacar
   - jersey: De Bolletjes Trui
-    cyclist: ""
+    cyclist: Jonas Abrahamsen
