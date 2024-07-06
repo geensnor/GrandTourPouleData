@@ -2,10 +2,20 @@
 number: 8
 route: Semur - en-Auxois-Colombey-les-Deux-Églises
 date: "2024-07-06"
-status: notStarted
-stageResults: ""
+status: finished
+stageResults:
+  - Biniam Girmay
+  - Jasper Philipsen
+  - Arnaud De Lie
+  - Pascal Ackermann
+  - Marijn van den Berg
+  - Ryan Gibbons
+  - Anthony Turgis
+  - Fred Wright
+  - Alex Aranburu
+  - Remco Evenepoel
 jerseyWearers:
   - jersey: De Gele Trui
-    cyclist: ""
+    cyclist: Tadej Pogacar
   - jersey: De Bolletjes Trui
-    cyclist: ""
+    cyclist: Jonas Abrahamsen
