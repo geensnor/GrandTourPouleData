@@ -2,10 +2,20 @@
 number: 11
 route: Évaux - les-Bains-Le Lioran
 date: "2024-07-10"
-status: notStarted
-stageResults: ""
+status: finished
+stageResults:
+  - Jonas Vingegaard
+  - Tadej Pogacar
+  - Remco Evenepoel
+  - Primoz Roglic
+  - Giulio Ciccone
+  - Joao Almeida
+  - Adam Yates
+  - Mikel Landa
+  - Carlos Rodriguez
+  - Felix Gall
 jerseyWearers:
   - jersey: De Gele Trui
-    cyclist: ""
+    cyclist: Tadej Pogacar
   - jersey: De Bolletjes Trui
-    cyclist: ""
+    cyclist: Tadej Pogacar
