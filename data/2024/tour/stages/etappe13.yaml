@@ -2,10 +2,20 @@
 number: 13
 route: Agen - Pau
 date: "2024-07-12"
-status: notStarted
-stageResults: ""
+status: finished
+stageResults:
+  - Jasper Philipsen
+  - Wout van Aert
+  - Pascal Ackermann
+  - Biniam Girmay
+  - Nikias Arndt
+  - Jasper Stuyven
+  - Clément Russo
+  - Bryan Coquard
+  - Tadej Pogacar
+  - Søren Wærenskjold
 jerseyWearers:
   - jersey: De Gele Trui
-    cyclist: ""
+    cyclist: Tadej Pogacar
   - jersey: De Bolletjes Trui
-    cyclist: ""
+    cyclist: Tadej Pogacar
