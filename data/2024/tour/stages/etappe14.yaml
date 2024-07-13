@@ -2,10 +2,20 @@
 number: 14
 route: Pau - Saint-Lary-Soulan Pla d'Adet
 date: "2024-07-13"
-status: notStarted
-stageResults: ""
+status: finished
+stageResults:
+  - Tadej Pogacar
+  - Jonas Vingegaard
+  - Remco Evenepoel
+  - Carlos Rodriguez
+  - Giulio Ciccone
+  - Santiago Buitrago
+  - Adam Yates
+  - Felix Gall
+  - Matteo Jorgenson
+  - Derek Gee
 jerseyWearers:
   - jersey: De Gele Trui
-    cyclist: ""
+    cyclist: Tadej Pogacar
   - jersey: De Bolletjes Trui
-    cyclist: ""
+    cyclist: Tadej Pogacar
