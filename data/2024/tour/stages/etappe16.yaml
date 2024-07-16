@@ -2,10 +2,20 @@
 number: 16
 route: Gruissan - Nimes
 date: "2024-07-16"
-status: notStarted
-stageResults: ""
+status: finished
+stageResults:
+  - Jasper Philipsen
+  - Phil Bauhaus
+  - Alexander Kristoff
+  - Sam Bennett
+  - Wout van Aert
+  - Pascal Ackermann
+  - Bryan Coquard
+  - Søren Wærenskjold
+  - Ryan Gibbons
+  - Danny van Poppel
 jerseyWearers:
   - jersey: De Gele Trui
-    cyclist: ""
+    cyclist: Tadej Pogacar
   - jersey: De Bolletjes Trui
-    cyclist: ""
+    cyclist: Tadej Pogacar
