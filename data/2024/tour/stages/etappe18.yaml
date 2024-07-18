@@ -2,10 +2,20 @@
 number: 18
 route: Gap - Barcelonnette
 date: "2024-07-18"
-status: notStarted
-stageResults: ""
+status: finished
+stageResults:
+  - Victor Campenaerts
+  - Mattéo Vercher
+  - Michal Kwiatkowski
+  - Toms Skujins
+  - Oier Lazkano
+  - Bart Lemmen
+  - Krists Neilands
+  - Jai Hindley
+  - Wout van Aert
+  - Michael Matthews
 jerseyWearers:
   - jersey: De Gele Trui
-    cyclist: ""
+    cyclist: Tadej Pogacar
   - jersey: De Bolletjes Trui
-    cyclist: ""
+    cyclist: Tadej Pogacar
